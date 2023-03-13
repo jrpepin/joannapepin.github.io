@@ -11,8 +11,7 @@ about:
       href: https://github.com/jrpepin
 ---
 
-:::{#intro-heading}
-
+::: {#intro-heading}
 **Assistant Professor**\
 **Department of Sociology, University at Buffalo (SUNY)**\
 \
@@ -20,7 +19,6 @@ about:
 Work, Health & Well-being,\
 Culture, Policy, Methods**\
 coffee drinker, baseball fan, knitter
-
 :::
 
 ------------------------------------------------------------------------
