@@ -1,25 +1,36 @@
 ---
 title: "Joanna R. Pepin"
-links: 
-  - text: Mastodon
-    href: SCIENCES.SOCIAL/@COFFEEBASEBALL
-  - test: GitHub
-    href: https://github.com/jrpepin
+image: images/bio_transparent.png
+about: 
+  id: intro-heading
+  template: solana 
+  links: 
+    - text: Mastodon
+      href: SCIENCES.SOCIAL/@COFFEEBASEBALL
+    - text: GitHub
+      href: https://github.com/jrpepin
 ---
 
+:::{#intro-heading}
+
 **Assistant Professor**\
-**Department of Sociology, University at Buffalo (SUNY)** \
+**Department of Sociology, University at Buffalo (SUNY)**\
 \
-**Inequality, Family, Gender,\
-Work, ​Health & Well-being,\
-​Culture, Policy, Methods**\
-coffee drinker, baseball fan, knitter
+**Inequality, Family, Gender,\
+Work, Health & Well-being,\
+Culture, Policy, Methods**\
+coffee drinker, baseball fan, knitter
 
-<br/>
+:::
 
-Joanna Pepin is an Assistant Professor in the Department of Sociology
-at the University at Buffalo (SUNY). Prior to this position, she was a
-Postdoctoral Fellow in the Population Research Center at the University of
-Texas - Austin.
+------------------------------------------------------------------------
 
-As a family sociologist, she studies inequality as it is woven through couple and family relations. Her current research examines trends in attitudes and behaviors related to the distribution of resources within families, such as who does the housework, who works for pay, and how couples share (or don\'t share) earnings and family responsibilities. Another research stream explores how historical time and place contribute to gender inequality within families and the growing divergence in outcomes among women. Pepin's research has appeared in the *American Sociological Review*, *Journal of Marriage and Family* and *Demography* and it has been covered by news outlets such as the *New York Times, Washington Post, Time Magazine,* and *The Guardian.*
+{{< pagebreak >}}
+
+Joanna Pepin is an Assistant Professor in the Department of Sociology at the University at Buffalo (SUNY). Prior to this position, she was a Postdoctoral Fellow in the Population Research Center at the University of Texas - Austin.
+
+As a family sociologist, she studies inequality as it is woven through couple and family relations. Her current research examines trends in attitudes and behaviors related to the distribution of resources within families, such as who does the housework, who works for pay, and how couples share (or don't share) earnings and family responsibilities.
+
+Another research stream explores how historical time and place contribute to gender inequality within families and the growing divergence in outcomes among women.
+
+Pepin's research has appeared in the *American Sociological Review*, *Journal of Marriage and Family* and *Demography* and it has been covered by news outlets such as the *New York Times, Washington Post, Time Magazine,* and *The Guardian.*

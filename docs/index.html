@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -63,7 +62,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -97,39 +96,51 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+
+
+<div class="quarto-about-solana column-body">
+  <div class="about-entity">
+    <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Joanna R. Pepin</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-</header>
-
+</header> <div class="about-links">
+  <a href="/SCIENCES.SOCIAL/@COFFEEBASEBALL" class="about-link">
+     <span class="about-link-text">Mastodon</span>
+  </a>
+  <a href="https://github.com/jrpepin" class="about-link">
+     <span class="about-link-text">GitHub</span>
+  </a>
+</div>
+      <div class="about-contents"><div id="intro-heading">
 <p><strong>Assistant Professor</strong><br>
 <strong>Department of Sociology, University at Buffalo (SUNY)</strong><br>
 <br>
-<strong>Inequality,&nbsp;Family,&nbsp;Gender,<br>
-Work,&nbsp;​Health &amp; Well-being,<br>
-​Culture, Policy, Methods</strong><br>
-coffee drinker,&nbsp;baseball fan, knitter</p>
-<p><br></p>
+<strong>Inequality, Family, Gender,<br>
+Work, Health &amp; Well-being,<br>
+Culture, Policy, Methods</strong><br>
+coffee drinker, baseball fan, knitter</p>
+</div></div>
+    </div>
+    <img src="images/bio_transparent.png" class="about-image
+  rounded " style="width: 15em;">
+  </div>
+</div>
+
+<hr>
+<div style="page-break-after: always;"></div>
 <p>Joanna Pepin is an Assistant Professor in the Department of Sociology at the University at Buffalo (SUNY). Prior to this position, she was a Postdoctoral Fellow in the Population Research Center at the University of Texas - Austin.</p>
-<p>As a family sociologist, she studies inequality as it is woven through couple and family relations. Her current research examines trends in attitudes and behaviors related to the distribution of resources within families, such as who does the housework, who works for pay, and how couples share (or don't share) earnings and family responsibilities. Another research stream explores how historical time and place contribute to gender inequality within families and the growing divergence in outcomes among women. Pepin’s research has appeared in the <em>American Sociological Review</em>, <em>Journal of Marriage and Family</em> and <em>Demography</em> and it has been covered by news outlets such as the <em>New York Times, Washington Post, Time Magazine,</em> and <em>The Guardian.</em></p>
+<p>As a family sociologist, she studies inequality as it is woven through couple and family relations. Her current research examines trends in attitudes and behaviors related to the distribution of resources within families, such as who does the housework, who works for pay, and how couples share (or don’t share) earnings and family responsibilities.</p>
+<p>Another research stream explores how historical time and place contribute to gender inequality within families and the growing divergence in outcomes among women.</p>
+<p>Pepin’s research has appeared in the <em>American Sociological Review</em>, <em>Journal of Marriage and Family</em> and <em>Demography</em> and it has been covered by news outlets such as the <em>New York Times, Washington Post, Time Magazine,</em> and <em>The Guardian.</em></p>
+
 
 
 
@@ -154,13 +165,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
