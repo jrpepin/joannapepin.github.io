@@ -1,5 +1,5 @@
 ---
-title: "joannapepin.github.io"
+title: "Joanna R. Pepin"
 ---
 
 This is a Quarto website.
