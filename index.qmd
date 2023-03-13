@@ -1,11 +1,16 @@
 ---
 title: "Joanna R. Pepin"
+links: 
+  - text: Mastodon
+    href: SCIENCES.SOCIAL/@COFFEEBASEBALL
+  - test: GitHub
+    href: https://github.com/jrpepin
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+**Assistant Professor**\
+**Department of Sociology, University at Buffalo (SUNY)** \
+\
+**Inequality, Family, Gender,\
+Work, ​Health & Well-being,\
+​Culture, Policy, Methods**\
+coffee drinker, baseball fan, knitter
