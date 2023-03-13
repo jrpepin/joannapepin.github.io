@@ -11,6 +11,9 @@ website:
       - href: https://jrpepin.github.io/joannapepin.github.io/CV.pdf
         text: CV
       - press.qmd
+      - href: https://github.com/jrpepin
+        text: Code
+      - teaching.qmd
 
 # supplying just one theme ("flatly")
 format:

@@ -9,6 +9,10 @@ about:
       href: https://sciences.social/@CoffeeBaseball
     - text: GitHub
       href: https://github.com/jrpepin
+    - text: ORCID
+      href: https://orcid.org/0000-0002-3134-2121
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=dRnRsFsAAAAJ&hl=en
 ---
 
 ::: {#intro-heading}
