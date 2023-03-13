@@ -10,11 +10,11 @@ website:
         text: Home
       - about.qmd
 
+# supplying just one theme ("flatly")
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
 editor: visual
-
