@@ -6,7 +6,7 @@ about:
   template: solana 
   links: 
     - text: Mastodon
-      href: SCIENCES.SOCIAL/@COFFEEBASEBALL
+      href: https://sciences.social/@CoffeeBaseball
     - text: GitHub
       href: https://github.com/jrpepin
 ---
