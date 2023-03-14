@@ -8,8 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: https://jrpepin.github.io/joannapepin.github.io/CV.pdf
-        text: CV
       - press.qmd
       - href: https://github.com/jrpepin
         text: Code

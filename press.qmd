@@ -22,7 +22,7 @@ title: "Press"
 [Which of These 4 Family Policies Deserves Top Priority?](http://www.nytimes.com/2021/10/13/upshot/of-four-family-policies-in-democrats-bill-which-is-most-important.html){target="_blank"} (*NYTimes*)\
 
 *September 13, 2021*\
-[Why People Who Are Anti-Sexist Aren\'t Necessarily Anti-Racist](https://www.deseret.com/2021/9/12/22663552/general-social-survey-says-acceptance-of-gender-equality-race-equity-moved-at-different-paces-racism){target="_blank"} *(Deseret News)*\
+[Why People Who Are Anti-Sexist Aren't Necessarily Anti-Racist](https://www.deseret.com/2021/9/12/22663552/general-social-survey-says-acceptance-of-gender-equality-race-equity-moved-at-different-paces-racism){target="_blank"} *(Deseret News)*\
 
 *May 7, 2021*\
 [Moms with Husbands: More Chores, Less Sleep than Single Moms](https://www.psychologytoday.com/us/blog/living-single/202105/moms-husbands-more-chores-less-sleep-single-moms){target="_blank"} *(Psychology Today)*\
@@ -32,7 +32,7 @@ title: "Press"
 
 *April 20, 2021*\
 [Cuál es la mejor manera de organizar las finanzas en pareja](https://www.bbc.com/mundo/noticias-56781147){target="_blank"} *(BBC Mundo)*\
-[What is the best way to organize finances as a couple]\
+\[What is the best way to organize finances as a couple\]\
 
 ## **2020**
 
@@ -61,7 +61,7 @@ title: "Press"
 [Study Finds Young People Still Hold Conservative Views on Gender Roles](http://feminist.org/blog/index.php/2020/02/12/study-finds-young-people-still-hold-conservative-views-on-gender-roles/){target="_blank"} *(Feminist Majority Foundation)*\
 
 *February 11, 2020*\
-[Young Men Embrace Gender Equality, but They Still Don\'t Vacuum](https://t.co/Vy11Xp2WEF?amp=1){target="_blank"} *(NYTimes)*\
+[Young Men Embrace Gender Equality, but They Still Don't Vacuum](https://t.co/Vy11Xp2WEF?amp=1){target="_blank"} *(NYTimes)*\
 
 *January 28, 2020*\
 [Young People Have Their Own Battles to Fight Against Sexism](https://msmagazine.com/2020/01/28/young-people-have-their-own-battles-to-fight-against-sexism/){target="_blank"} (*Ms. Magazine*)\
@@ -90,7 +90,7 @@ title: "Press"
 [All the Single Mothers](https://slate.com/human-interest/2019/05/single-moms-fewer-chores-free-time-married.html){target="_blank"} *(Slate)*\
 
 *May 8, 2019*\
-[Moms Spend Even More Time on Housework When a Man\'s in the House. Here\'s Why.](https://www.washingtonpost.com/opinions/moms-spend-even-more-time-on-housework-when-a-mans-in-the-house-heres-why/2019/05/08/319da006-71ba-11e9-8be0-ca575670e91c_story.html){target="_blank"} *(Washington Post)*\
+[Moms Spend Even More Time on Housework When a Man's in the House. Here's Why.](https://www.washingtonpost.com/opinions/moms-spend-even-more-time-on-housework-when-a-mans-in-the-house-heres-why/2019/05/08/319da006-71ba-11e9-8be0-ca575670e91c_story.html){target="_blank"} *(Washington Post)*\
 [Married Women Do More Housework Than Single Moms, Study Finds](http://fortune.com/2019/05/08/married-single-moms-housework/){target="_blank"} *(Fortune)*
 
 ## **2018**
@@ -108,8 +108,9 @@ title: "Press"
 [Fewer Young People Want Gender Equality at Home](http://time.com/4718281/fewer-young-people-want-gender-equality-at-home/){target="_blank"} *(Time)*
 
 ## **2016**
+
 *June 1, 2016*\
-[The Huge Problem With The Way The Media Is Covering Amber Heard\'s Abuse Allegations](https://thinkprogress.org/the-huge-problem-with-the-way-the-media-is-covering-amber-heards-abuse-allegations-b7bf4624b87c/){target="_blank"} *(Think Progress)*\
+[The Huge Problem With The Way The Media Is Covering Amber Heard's Abuse Allegations](https://thinkprogress.org/the-huge-problem-with-the-way-the-media-is-covering-amber-heards-abuse-allegations-b7bf4624b87c/){target="_blank"} *(Think Progress)*\
 
 *January 7, 2016*\
 [Black Celebrities More Likely to be Portrayed as Criminals in Domestic Violence Coverage](https://womenintheworld.com/2016/01/07/black-celebrities-more-likely-to-be-portrayed-as-criminals-in-domestic-violence-coverage/){target="_blank"} *(Women in the World)*\
