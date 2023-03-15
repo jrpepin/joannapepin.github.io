@@ -8,14 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: https://jrpepin.github.io/joannapepin.github.io/CV.pdf
-        text: CV
+      - file: CV.pdf
+        text: "Vita"
+        icon: file-pdf
       - press.qmd
       - href: https://github.com/jrpepin
         text: Code
       - teaching.qmd
 
-# supplying just one theme ("flatly")
 format:
   html:
     theme: 
