@@ -15,6 +15,7 @@ website:
       - href: https://github.com/jrpepin
         text: Code
       - teaching.qmd
+      - blog.qmd
 
 format:
   html:
