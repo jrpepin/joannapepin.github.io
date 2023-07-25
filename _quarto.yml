@@ -12,8 +12,12 @@ website:
         text: "Vita"
         icon: file-pdf
       - press.qmd
-      - href: https://github.com/jrpepin
-        text: Code
+      - text: "Code"
+        menu: 
+          - text: "Repositories"
+            href: https://github.com/jrpepin
+ #         - text: "Stata"
+ #           href: stata.qmd
       - teaching.qmd
       - blog.qmd
 
