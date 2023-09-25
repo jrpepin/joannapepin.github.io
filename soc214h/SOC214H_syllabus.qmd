@@ -1,0 +1,147 @@
+---
+title: "SOC214H"
+---
+
+```{r, include=FALSE}
+
+if(!require(tidyverse)){
+  install.packages("tidyverse")
+  library(tidyverse)
+}
+
+if(!require(knitr)){
+  install.packages("knitr")
+  library(knitr)
+}
+
+if(!require(kableExtra)){
+  install.packages("kableExtra")
+  library(kableExtra)
+}
+
+if(!require(googledrive)){
+  install.packages("googledrive")
+  library(googledrive)
+}
+
+if(!require(googlesheets4)){
+  install.packages("googlesheets4")
+  library(googlesheets4)
+}
+
+if(!require(tinytex)){
+  install.packages("tinytex")
+  library(tinytex)
+}
+
+## sheets reauth with specified token and email address
+drive_deauth()
+drive_auth(
+  cache = ".secrets",
+  email = "joannapepin@gmail.com"
+)
+
+# Give google sheets the same authorization
+gs4_auth(token = drive_token())
+
+```
+
+Winter 2023
+
+**Instructor:** Joanna R. Pepin
+
+**Office Hours:** Virtual, by appointment
+
+**Email:** j.pepin\@utoronto.ca
+
+**Teaching Assistants:** TBD
+
+# Course Description
+
+This course provides a critical analysis of families using a life course perspective. We will pay attention to historical transformations of families in society and to family transitions over the life course of individuals. This course emphasizes the linked lives of individuals to each other, to institutions such as work, and to their cultural contexts. The intersections between the family and other social institutions, as well as growing diversity between families will be central foundations of this course.
+
+We will examine trends in family life such as racial and economic inequality, technology's transformation of romantic relationships, and demographic trends. Other topics include historical trends in courtship, family formation, parenting, families and work, and divorce and remarriage.
+
+## Learning Outcomes
+
+The course will introduce you to sociological concepts and issues pertaining to contemporary family sociology. You will finish the course with a better understanding of the differences between families and the ways that social forces shape families. You will apply the sociological perspective to the institution of the family and examine how social factors such as race, class, and gender shape contemporary families. By the end of this course, students should be able to:
+
+-   Understand and evaluate the family as a socially and culturally constructed institution.
+-   Think critically about how race, class, gender, age, and social location shape how individuals experience family life within society.
+-   Have an awareness of historical and demographic trends shape and change family patterns in American society.
+-   Be able to form arguments and think critically about family life and broader society.
+
+## Prerequisite
+
+The prerequisite to take this course is **SOC100H1**. As per university guidelines, those without this requirement will be removed at time of discovery and without notice.
+
+# Required Texts
+
+There is no textbook for this course. See Quercus for required readings available electronically.
+
+# Evaluation Components
+
+All assignments, evaluations, and tests will need to be submitted via Quercus.
+
+# Schedule
+
+```{r message =FALSE, echo=FALSE}
+sched <- read_sheet("10NtiaxfX8Mj61gsIwV4vSWBQ9WTY2lv746YkLMi6o3Y", sheet = "Schedule")
+tests <- c(5, 11, 14)
+
+```
+
+```{r, echo = FALSE}
+options(knitr.kable.NA = '')
+kable(sched) %>%
+  kable_styling(bootstrap_options = "striped", position = "center") %>%
+  row_spec(0,     color = "white",   background = "#18BC9C") %>%
+  row_spec(7,     color = "#18BC9C", bold = T) %>%
+  row_spec(tests, color = "#E74C3C", bold = T)
+
+
+```
+
+# Evaluation
+
+## Grading summary
+
+```{r echo = FALSE}
+Output <- c("Mini Projects", "Test 1", "Test 2", "Final Essay Proposal",  "Final Essay")
+Proportion <- c("15%", "25%", "25%", "10%", "25%")
+summary <- data.frame(Output, Proportion)
+```
+
+```{r echo = FALSE}
+kable(summary) %>%
+  kable_styling(bootstrap_options = "striped", full_width = F, position = "left") %>%
+  row_spec(0, color = "white", background = "#18BC9C")
+```
+
+## Arts & Sciences Grading Scale
+
+```{r echo = FALSE}
+Percentage <- c("90-100", "85-89", "80-84", 
+                "77-79",  "73-76", "70-72", 
+                "67-69",  "63-66", "60-62", 
+                "57-59",  "53-56", "50-52", "0-49")
+Letter     <- c("A+", "A", "A-", 
+                "B+", "B", "B-", 
+                "C+", "C", "C-", 
+                "D+", "D", "D-", "F")
+GPA        <- c("4.0", "4.0", "3.7", 
+                "3.3", "3.0", "2.7",
+                "2.3", "2.0", "1.7",
+                "1.3", "1.0", "0.7", "0.0")
+Definition <- c("Excellent", " ",  " ",
+                "Good",      " ",  " ",
+                "Adequate",  " ",  " ",
+                "Marginal",  " ",  " ", "Inadequate")
+grading <- data.frame(Percentage, Letter, GPA, Definition)
+```
+
+```{r echo = FALSE}
+kable(grading) %>%
+  kable_styling(bootstrap_options = "striped", full_width = F, position = "left") %>%
+  row_spec(0, color = "white", background = "#18BC9C")
+```
