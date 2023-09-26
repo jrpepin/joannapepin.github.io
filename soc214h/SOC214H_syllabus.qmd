@@ -46,6 +46,8 @@ gs4_auth(token = drive_token())
 
 ```
 
+# Sociology of the Family
+
 Winter 2023
 
 **Instructor:** Joanna R. Pepin
