@@ -4,6 +4,7 @@
 .httr-oauth
 .DS_Store
 soc214h/.secrets
+soc395h/.secrets
 
 /.quarto/
 
