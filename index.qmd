@@ -1,9 +1,10 @@
 ---
 title: "Joanna R. Pepin"
-image: images/bio_transparent.png
+image: images/hs2023.png  
 about: 
-  id: intro-heading
+  id: intro-heading 
   template: solana 
+  image-width: 25em 
   links: 
     - text: Mastodon
       href: https://sciences.social/@CoffeeBaseball
