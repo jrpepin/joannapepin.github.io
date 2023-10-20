@@ -16,12 +16,13 @@ website:
         menu: 
           - text: "Repositories"
             href: https://github.com/jrpepin
- #         - text: "Stata"
- #           href: stata.qmd
-      - teaching.qmd
+ #        - text: "Stata"
+ #          href: stata.qmd
+      - href: teaching.qmd
+        text: teaching
         menu:
           - text: "Slides"
-            href: https://github.com/jrpepin/joannapepin.github.io/blob/main/docs/soc214h/Slides/01.1%20A%20Sociology%20of%20the%20Family.html
+            href: "01.1 A Sociology of the Family.qmd"
       - blog.qmd
 
 format:
