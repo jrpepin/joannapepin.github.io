@@ -18,9 +18,10 @@ website:
             href: https://github.com/jrpepin
  #        - text: "Stata"
  #          href: stata.qmd
-      - href: teaching.qmd
-        text: teaching
+      - text: teaching
         menu:
+          - text: "Overview"
+            href: teaching.qmd
           - text: "test"
             href: "https://www.google.com/"
       - blog.qmd
