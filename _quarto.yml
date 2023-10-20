@@ -19,6 +19,9 @@ website:
  #         - text: "Stata"
  #           href: stata.qmd
       - teaching.qmd
+        menu:
+          - text: "Slides"
+            href: https://github.com/jrpepin/joannapepin.github.io/blob/main/docs/soc214h/Slides/01.1%20A%20Sociology%20of%20the%20Family.html
       - blog.qmd
 
 format:
