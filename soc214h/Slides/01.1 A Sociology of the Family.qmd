@@ -1,0 +1,260 @@
+---
+title: "A Sociology of the Family"
+format: 
+  revealjs:
+    controls: true
+    theme: [default, custom.scss]
+---
+
+```{r warning = FALSE, error = FALSE, message = FALSE}
+# Loading libraries
+library(tidyverse)
+library(gghighlight)
+
+# Define color palette
+c_palette <- c("#20c997",
+               "#3498db",
+               "#fd7e14",
+               "#e74c3c")
+```
+
+
+# Defining Families {.theme-section}  
+What makes a family?  
+  
+
+::: notes
+Q&A with students -- live together? legal ties? pets?
+:::
+
+------------------------------------------------------------------------
+
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/yaeiCEro0iU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+::: notes
+11 mins.
+:::
+
+## Definitions  
+
+::: {.incremental .highlight-last}
+-   Groups of people who are related by genetics, marriage, or choice, and who share material, emotional, and economic resources (CrashCourse)
+-   **Groups of related people bound by connections that are biological, legal, or emotional** (Cohen 2020)
+:::
+
+  
+::: notes
+-   There is not a single definition of family.
+-   Different criteria are used for different reasons (e.g., biological, legal, emotional).
+-   Different people and countries have different definitions.
+-   Critique CrashCourse definition -- have to share resources?
+-   This is the simplest, working definition used by Philip Cohen.
+:::
+
+## Personal family
+
+-   People to whom we feel related and who we expect to define us as members of their family as well\
+-   Families of choice
+
+::: notes
+-   Choice: marriage; close friends -- fictive kin
+:::
+
+## Legal family
+
+-   A group of individuals related by birth, marriage, or adoption
+
+::: notes
+-   No universal legal definitions, and legal implications vary
+-   State-imposed legal definition (state refers to government at all levels)
+-   Implications for the distribution of resources
+-   Definition seems straightforward, but its meaning may be contested.
+-   All the words in the definition can be contested.
+-   Most contested word is marriage (marriage equality)
+:::
+
+## Households  
+
+-   A group of people that lives and eats separately from other groups
+
+::: notes
+-   households are sometimes families, families are sometimes households
+:::
+
+## Households cont.  
+
+```{r}  
+
+# Data: https://www150.statcan.gc.ca/n1/daily-quotidien/220713/g-a004-eng.htm
+type <- c("One-census family", "Other-census family", "2 + non-census family", "1 person")
+year <- c("2001", "2001", "2001", "2001",
+          "2006", "2006", "2006", "2006",
+          "2011", "2011", "2011", "2011",
+          "2016", "2016", "2016", "2016",
+          "2021", "2021", "2021", "2021")
+prop <- c(64.6, 5.9, 3.7, 25.7,
+          63.6, 5.9, 3.7, 26.8,
+          62.0, 6.3, 4.1, 27.6,
+          61.2, 6.5, 4.1, 28.2,
+          59.6, 6.6, 4.4, 29.3)
+data <- data.frame(type, year, prop)
+
+data$type <- factor(data$type, 
+                    levels = c("One-census family", "Other-census family", 
+                               "2 + non-census family", "1 person"), ordered = FALSE)
+
+p <- ggplot(data, aes(x = factor(year), y = prop, fill = type, label = prop)) +
+  geom_col(position = position_stack(reverse = TRUE),
+           width = .5) +
+  # Set the position to its complementary
+  geom_text(position = position_stack(reverse = TRUE, vjust = .5),
+            show.legend = FALSE, color = "white") +
+  coord_flip() +
+  scale_x_discrete(limits=rev) +
+  theme_minimal(base_size = 20) +
+  theme(legend.position="top",
+        panel.grid.minor = element_blank()) +
+  scale_fill_manual(values = c_palette) +
+  ggtitle("Distribution (%) of household types in Canada") +
+  labs(x        = NULL, 
+       y        = NULL,
+       fill     = NULL,
+       legend   = NULL,
+       caption  = "Source: Census of Population 2001 to 2021 (3901)") 
+
+p + gghighlight(type == "One-census family", label_key = type, use_group_by = FALSE)
+
+```
+
+::: notes
+Census of Population 2001 to 2021 (3901)
+## https://www150.statcan.gc.ca/n1/daily-quotidien/220713/g-a004-eng.htm
+:::
+
+## Households cont.  
+```{r}
+p + gghighlight(type == "One-census family" |type == "Other-census family", 
+                label_key = type, use_group_by = FALSE)
+```
+
+
+## Households cont.  
+```{r}
+p 
+```
+
+# Theories of Families {.theme-section}  
+  
+## Institutional Arena
+
+A framework identifying a space where interactions occur
+
+1.  Family arena
+
+2.  State arena
+
+3.  Market arena
+
+::: notes
+The goods and services available in the market, combined with the services and policies of the government, affect decisions individuals make about family life.
+:::
+
+## Institutional Arena cont. {.smaller}
+
+|                          | Family                                                                    | State                                                   | Market                                                                |
+|------------------|------------------|------------------|-------------------|
+| **Type of Interaction**  | people practice intimacy, childbearing and socialization, and caring work | behavior is legally regulated through laws and policies | labor for pay, economic exchange, and wealth accumulation takes place |
+| **Organizational Units** | Families                                                                  | Legislatures and agencies                               | Companies                                                             |
+| **Individual Roles**     | Family members                                                            | Citizens and residents                                  | Workers, owners, and consumers                                        |
+
+::: notes
+Talk through examples of each.\
+\* state -- marriage license\
+\* market -- childcare
+:::
+
+## Broad Perspectives
+
+**Consensus**\
+society as the collective expression of shared norms and values
+
+. . .
+
+**Conflict**\
+focus on power relations and inequality
+
+::: notes
+**consensus:** stability -- breadwinner/homemaker were complementary and in harmony\
+macro -- order and stability for society\
+micro -- emotional and economic support\
+**conflict:** change -- focus on the competing interests of family members to understand family issues.\
+macro -- inequality may be between the family system and the work/employment/economic system\
+micro -- inequality may occur between certain family members
+:::
+
+## Structural functionalism  
+family as a social institution that performs essential functions for society and ensures its stability (Mitchell 2021)  
+
+::: notes  
+in line with the consensus perspective  
+- "the family" is universal (breadwinner/homemaker)
+:::
+
+## Exchange  
+individuals or groups with different resources, strengths, and weaknesses enter into mutual relationships to maximize their own gains  
+  
+::: notes  
+in line with the consensus perspective  
+Individuals cannot provide for all of their own needs on their own, so they must exchange with others  
+Economist Gary Becker -- positive interpretation about the unequal partnerships between men and women  
+breadwinner-homemaker family - an employed father, a mother without employment, and their children  
+the husband and wife perform separate and different roles, and this “exchange” benefits the marriage and the family  
+division of housework is a major subject  
+family wage: the amount necessary for a male earner to provide for family  
+criticized because it presumes that resources between men and women are equal  
+:::
+  
+## Feminism  
+seeks to understand and ultimately reduce inequality between men and women
+
+::: notes  
+in line with the conflict perspective  
+opposed to structural functionalism  
+Gender inequality is central to family life  
+The family arena is where gender roles are learned and formed  
+family structure is socially constructed (and unequal)  
+Critical of the breadwinner-homemaker family model  
+:::
+
+## Symbolic Interaction  
+ability of humans to see themselves through the eyes of others  
+
+::: notes  
+enact social roles based on others’ expectations  
+studying social change but is not strictly coming from the conflict perspective  
+Meaning can only be understood by studying the actions (behaviors) of individuals  
+individuals see themselves through the eyes of others and act according to the expectations of others  
+:::
+
+
+## Demography  
+family behavior and household structures contribute to larger population processes
+
+::: notes  
+the study of populations  
+focuses on birth, death, and migration  
+must look at these things in context, hence an emphasis on the timing of life events  
+:::
+
+## Life Course  
+family trajectories of individuals and groups as they progress through their lives, in social and historical context  
+
+::: notes  
+progression from childhood to adulthood, looking for patterns and what is typical  
+Traditional “normal” progression used to include marriage and then parenthood  
+Sequences of family events now more diverse and complicated  
+Goal is to place family events in historical context  
+Cohort: a group of people who experience an event together at the same point in time  
+:::
