@@ -21,8 +21,8 @@ website:
       - href: teaching.qmd
         text: teaching
         menu:
-          - text: "Slides"
-            href: "01.1 A Sociology of the Family.qmd"
+          - text: "test"
+            href: "https://www.google.com/"
       - blog.qmd
 
 format:
