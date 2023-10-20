@@ -16,14 +16,15 @@ website:
         menu: 
           - text: "Repositories"
             href: https://github.com/jrpepin
+          - text: "test"
+            href: "https://www.google.com/"
  #        - text: "Stata"
  #          href: stata.qmd
       - text: teaching
         menu:
           - text: "Overview"
             href: teaching.qmd
-  #        - text: "test"
-   #         href: "https://www.google.com/"
+
       - blog.qmd
 
 format:
