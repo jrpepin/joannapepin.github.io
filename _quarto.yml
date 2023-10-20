@@ -22,8 +22,8 @@ website:
         menu:
           - text: "Overview"
             href: teaching.qmd
-          - text: "test"
-            href: "https://www.google.com/"
+  #        - text: "test"
+   #         href: "https://www.google.com/"
       - blog.qmd
 
 format:
