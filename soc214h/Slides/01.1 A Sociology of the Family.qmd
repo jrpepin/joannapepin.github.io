@@ -181,6 +181,10 @@ A framework identifying a space where interactions occur
 
 3.  Market arena
 
+::: aside
+Cohen, Philip N. 2020. The Family: Diversity, Inequality, and Social Change. 3rd Edition. New York, NY: W. W. Norton.
+:::
+
 ::: notes
 The goods and services available in the market, combined with the services and policies of the government, affect decisions individuals make about family life.
 :::
@@ -188,10 +192,14 @@ The goods and services available in the market, combined with the services and p
 ## Institutional Arena cont. {.smaller}
 
 |                          | Family                                                                    | State                                                   | Market                                                                |
-|--------------------------|---------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------|
+|------------------|------------------|------------------|-------------------|
 | **Type of Interaction**  | people practice intimacy, childbearing and socialization, and caring work | behavior is legally regulated through laws and policies | labor for pay, economic exchange, and wealth accumulation takes place |
 | **Organizational Units** | Families                                                                  | Legislatures and agencies                               | Companies                                                             |
 | **Individual Roles**     | Family members                                                            | Citizens and residents                                  | Workers, owners, and consumers                                        |
+
+::: aside
+Cohen, Philip N. 2020. The Family: Diversity, Inequality, and Social Change. 3rd Edition. New York, NY: W. W. Norton.
+:::
 
 ::: notes
 Talk through examples of each.\
@@ -202,7 +210,7 @@ Talk through examples of each.\
 ## Broad Perspectives
 
 **Consensus**\
-society as the collective expression of shared norms and values
+society as the collective expression of shared norms/values
 
 . . .
 
