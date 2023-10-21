@@ -18,10 +18,9 @@ c_palette <- c("#20c997",
                "#e74c3c")
 ```
 
+# Defining Families {.theme-section}
 
-# Defining Families {.theme-section}  
-What makes a family?  
-  
+What makes a family?
 
 ::: notes
 Q&A with students -- live together? legal ties? pets?
@@ -37,14 +36,13 @@ Q&A with students -- live together? legal ties? pets?
 11 mins.
 :::
 
-## Definitions  
+## Definitions
 
 ::: {.incremental .highlight-last}
 -   Groups of people who are related by genetics, marriage, or choice, and who share material, emotional, and economic resources (CrashCourse)
 -   **Groups of related people bound by connections that are biological, legal, or emotional** (Cohen 2020)
 :::
 
-  
 ::: notes
 -   There is not a single definition of family.
 -   Different criteria are used for different reasons (e.g., biological, legal, emotional).
@@ -66,6 +64,12 @@ Q&A with students -- live together? legal ties? pets?
 
 -   A group of individuals related by birth, marriage, or adoption
 
+**Family structure**\
+- combination of relatives that comprise a family\
+- legally married spouses or common law partners;\
+- children; and,\
+- in the case of economic families, other relatives. (StatCan)
+
 ::: notes
 -   No universal legal definitions, and legal implications vary
 -   State-imposed legal definition (state refers to government at all levels)
@@ -75,7 +79,7 @@ Q&A with students -- live together? legal ties? pets?
 -   Most contested word is marriage (marriage equality)
 :::
 
-## Households  
+## Households
 
 -   A group of people that lives and eats separately from other groups
 
@@ -83,12 +87,32 @@ Q&A with students -- live together? legal ties? pets?
 -   households are sometimes families, families are sometimes households
 :::
 
-## Households cont.  
+## Example
 
-```{r}  
+**Census family**: a couple, with or without children, or a one-parent family---and no additional people
+
+. . .
+
+**Other-census family**: multiple generations of a family sharing a home, two or more census families living together, or one census family living with additional people who may or may not be related
+
+. . .
+
+**Roommate households**: of two or more people not in a census family
+
+. . .
+
+**One-person households**: person who resides alone
+
+::: aside
+Source: https://www150.statcan.gc.ca/n1/daily-quotidien/220713/g-a004-eng.htm
+:::
+
+## Example cont.
+
+```{r}
 
 # Data: https://www150.statcan.gc.ca/n1/daily-quotidien/220713/g-a004-eng.htm
-type <- c("One-census family", "Other-census family", "2 + non-census family", "1 person")
+type <- c("One-census family", "Other-census family", "Roommate HH", "1 person")
 year <- c("2001", "2001", "2001", "2001",
           "2006", "2006", "2006", "2006",
           "2011", "2011", "2011", "2011",
@@ -103,7 +127,7 @@ data <- data.frame(type, year, prop)
 
 data$type <- factor(data$type, 
                     levels = c("One-census family", "Other-census family", 
-                               "2 + non-census family", "1 person"), ordered = FALSE)
+                               "Roommate HH", "1 person"), ordered = FALSE)
 
 p <- ggplot(data, aes(x = factor(year), y = prop, fill = type, label = prop)) +
   geom_col(position = position_stack(reverse = TRUE),
@@ -129,24 +153,24 @@ p + gghighlight(type == "One-census family", label_key = type, use_group_by = FA
 ```
 
 ::: notes
-Census of Population 2001 to 2021 (3901)
-## https://www150.statcan.gc.ca/n1/daily-quotidien/220713/g-a004-eng.htm
+Census of Population 2001 to 2021 (3901) \## https://www150.statcan.gc.ca/n1/daily-quotidien/220713/g-a004-eng.htm
 :::
 
-## Households cont.  
+## Example cont.
+
 ```{r}
 p + gghighlight(type == "One-census family" |type == "Other-census family", 
                 label_key = type, use_group_by = FALSE)
 ```
 
+## Example cont.
 
-## Households cont.  
 ```{r}
 p 
 ```
 
-# Theories of Families {.theme-section}  
-  
+# Theories of Families {.theme-section}
+
 ## Institutional Arena
 
 A framework identifying a space where interactions occur
@@ -164,7 +188,7 @@ The goods and services available in the market, combined with the services and p
 ## Institutional Arena cont. {.smaller}
 
 |                          | Family                                                                    | State                                                   | Market                                                                |
-|------------------|------------------|------------------|-------------------|
+|--------------------------|---------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------|
 | **Type of Interaction**  | people practice intimacy, childbearing and socialization, and caring work | behavior is legally regulated through laws and policies | labor for pay, economic exchange, and wealth accumulation takes place |
 | **Organizational Units** | Families                                                                  | Legislatures and agencies                               | Companies                                                             |
 | **Individual Roles**     | Family members                                                            | Citizens and residents                                  | Workers, owners, and consumers                                        |
@@ -194,67 +218,72 @@ macro -- inequality may be between the family system and the work/employment/eco
 micro -- inequality may occur between certain family members
 :::
 
-## Structural functionalism  
-family as a social institution that performs essential functions for society and ensures its stability (Mitchell 2021)  
+## Structural functionalism
 
-::: notes  
-in line with the consensus perspective  
+family as a social institution that performs essential functions for society and ensures its stability (Mitchell 2021)
+
+::: notes
+in line with the consensus perspective\
 - "the family" is universal (breadwinner/homemaker)
 :::
 
-## Exchange  
-individuals or groups with different resources, strengths, and weaknesses enter into mutual relationships to maximize their own gains  
-  
-::: notes  
-in line with the consensus perspective  
-Individuals cannot provide for all of their own needs on their own, so they must exchange with others  
-Economist Gary Becker -- positive interpretation about the unequal partnerships between men and women  
-breadwinner-homemaker family - an employed father, a mother without employment, and their children  
-the husband and wife perform separate and different roles, and this “exchange” benefits the marriage and the family  
-division of housework is a major subject  
-family wage: the amount necessary for a male earner to provide for family  
-criticized because it presumes that resources between men and women are equal  
+## Exchange
+
+individuals or groups with different resources, strengths, and weaknesses enter into mutual relationships to maximize their own gains
+
+::: notes
+in line with the consensus perspective\
+Individuals cannot provide for all of their own needs on their own, so they must exchange with others\
+Economist Gary Becker -- positive interpretation about the unequal partnerships between men and women\
+breadwinner-homemaker family - an employed father, a mother without employment, and their children\
+the husband and wife perform separate and different roles, and this "exchange" benefits the marriage and the family\
+division of housework is a major subject\
+family wage: the amount necessary for a male earner to provide for family\
+criticized because it presumes that resources between men and women are equal
 :::
-  
-## Feminism  
+
+## Feminism
+
 seeks to understand and ultimately reduce inequality between men and women
 
-::: notes  
-in line with the conflict perspective  
-opposed to structural functionalism  
-Gender inequality is central to family life  
-The family arena is where gender roles are learned and formed  
-family structure is socially constructed (and unequal)  
-Critical of the breadwinner-homemaker family model  
+::: notes
+in line with the conflict perspective\
+opposed to structural functionalism\
+Gender inequality is central to family life\
+The family arena is where gender roles are learned and formed\
+family structure is socially constructed (and unequal)\
+Critical of the breadwinner-homemaker family model
 :::
 
-## Symbolic Interaction  
-ability of humans to see themselves through the eyes of others  
+## Symbolic Interaction
 
-::: notes  
-enact social roles based on others’ expectations  
-studying social change but is not strictly coming from the conflict perspective  
-Meaning can only be understood by studying the actions (behaviors) of individuals  
-individuals see themselves through the eyes of others and act according to the expectations of others  
+ability of humans to see themselves through the eyes of others
+
+::: notes
+enact social roles based on others' expectations\
+studying social change but is not strictly coming from the conflict perspective\
+Meaning can only be understood by studying the actions (behaviors) of individuals\
+individuals see themselves through the eyes of others and act according to the expectations of others
 :::
 
+## Demography
 
-## Demography  
 family behavior and household structures contribute to larger population processes
 
-::: notes  
-the study of populations  
-focuses on birth, death, and migration  
-must look at these things in context, hence an emphasis on the timing of life events  
+::: notes
+the study of populations\
+focuses on birth, death, and migration\
+must look at these things in context, hence an emphasis on the timing of life events
 :::
 
-## Life Course  
-family trajectories of individuals and groups as they progress through their lives, in social and historical context  
+## Life Course
 
-::: notes  
-progression from childhood to adulthood, looking for patterns and what is typical  
-Traditional “normal” progression used to include marriage and then parenthood  
-Sequences of family events now more diverse and complicated  
-Goal is to place family events in historical context  
-Cohort: a group of people who experience an event together at the same point in time  
+family trajectories of individuals and groups as they progress through their lives, in social and historical context
+
+::: notes
+progression from childhood to adulthood, looking for patterns and what is typical\
+Traditional "normal" progression used to include marriage and then parenthood\
+Sequences of family events now more diverse and complicated\
+Goal is to place family events in historical context\
+Cohort: a group of people who experience an event together at the same point in time
 :::
