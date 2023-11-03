@@ -16,13 +16,10 @@ website:
         menu: 
           - text: "Repositories"
             href: https://github.com/jrpepin
-      - text: Teaching
-        menu:
-          - text: "Overview"
-            href: teaching.qmd
-          - text: "Slides (example)"
-            file: "soc214h/Slides/01.1 A Sociology of the Family.qmd"
-      - blog.qmd
+      - href: teaching.qmd
+        text: Teaching
+      - text: Blog
+        href: blog.qmd
 
 format:
   html:
