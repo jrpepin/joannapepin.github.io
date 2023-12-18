@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "variables.html",
+    "href": "variables.html",
+    "title": "Gender Attitudes",
     "section": "",
-    "text": "Social Statistics | SOC294 | Spring 2023 syllabus\nSociology of Families | SOC313 | Fall 2020 syllabus"
+    "text": "The most important family issues should be determined by men\nIf a mother has a job, her children are more likely to be negatively influenced before they enroll in school\nThe responsibility of a husband is to be the breadwinner, while the responsibility of a wife is to take care of the family\nWhen the economy is bad and it is necessary to lay off employees, (married) female employees should be let go first\nIn general, men are more suitable for managerial positions than women\nWhen there is a conflict between work and family, the wife should prioritize the family"
   },
   {
-    "objectID": "teaching.html#courses",
-    "href": "teaching.html#courses",
-    "title": "Teaching",
+    "objectID": "variables.html#the-taiwan-youth-project-typ",
+    "href": "variables.html#the-taiwan-youth-project-typ",
+    "title": "Gender Attitudes",
     "section": "",
-    "text": "Social Statistics | SOC294 | Spring 2023 syllabus\nSociology of Families | SOC313 | Fall 2020 syllabus"
+    "text": "The most important family issues should be determined by men\nIf a mother has a job, her children are more likely to be negatively influenced before they enroll in school\nThe responsibility of a husband is to be the breadwinner, while the responsibility of a wife is to take care of the family\nWhen the economy is bad and it is necessary to lay off employees, (married) female employees should be let go first\nIn general, men are more suitable for managerial positions than women\nWhen there is a conflict between work and family, the wife should prioritize the family"
   },
   {
-    "objectID": "teaching.html#instructor-resources",
-    "href": "teaching.html#instructor-resources",
-    "title": "Teaching",
-    "section": "Instructor Resources",
-    "text": "Instructor Resources\n\nFamily Sociology Video Resource List\nList of free videos that correspond with the chapters in the textbook: The Family- Diversity, Inequality, and Social Change\n\n\nFact Check Assignment\nThe objective for this assignment is for students to learn how to critically evaluate evidence in the media. It can be adapted for any content course and students pick their own sub-topic of interest to generate personal interest and motivation.\n\n\nFlipped Quiz Assignment\nStudents learn how to determine key content in course material. They also collaboratively create a study review guide by sharing their created quiz questions with classmates."
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "https://bootswatch.com/flatly/\n\n\nCard header\n\n\n&lt;h5 class=\"card-title\"&gt;Special title treatment&lt;/h5&gt;\n&lt;h6 class=\"card-subtitle text-muted\"&gt;Support card subtitle&lt;/h6&gt;\n\n\n Image cap\n\n\n&lt;p class=\"card-text\"&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt;\n\n\n\nCras justo odio\n\n\nDapibus ac facilisis in\n\n\nVestibulum at eros\n\n\n\n&lt;a href=\"#\" class=\"card-link\"&gt;Card link&lt;/a&gt;\n&lt;a href=\"#\" class=\"card-link\"&gt;Another link&lt;/a&gt;\n\n\n2 days ago\n\n\n\n\n&lt;h4 class=\"card-title\"&gt;Card title&lt;/h4&gt;\n&lt;h6 class=\"card-subtitle mb-2 text-muted\"&gt;Card subtitle&lt;/h6&gt;\n&lt;p class=\"card-text\"&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt;\n&lt;a href=\"#\" class=\"card-link\"&gt;Card link&lt;/a&gt;\n&lt;a href=\"#\" class=\"card-link\"&gt;Another link&lt;/a&gt;"
   },
   {
     "objectID": "index.html",
@@ -89,5 +89,26 @@
     "title": "Press",
     "section": "2016",
     "text": "2016\nJune 1, 2016\nThe Huge Problem With The Way The Media Is Covering Amber Heard’s Abuse Allegations (Think Progress)\n\nJanuary 7, 2016\nBlack Celebrities More Likely to be Portrayed as Criminals in Domestic Violence Coverage (Women in the World)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Social Statistics | SOC294 | Spring 2023 syllabus\nSociology of Families | SOC313 | Fall 2020 syllabus"
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Social Statistics | SOC294 | Spring 2023 syllabus\nSociology of Families | SOC313 | Fall 2020 syllabus"
+  },
+  {
+    "objectID": "teaching.html#instructor-resources",
+    "href": "teaching.html#instructor-resources",
+    "title": "Teaching",
+    "section": "Instructor Resources",
+    "text": "Instructor Resources\n\nFamily Sociology Video Resource List\nList of free videos that correspond with the chapters in the textbook: The Family- Diversity, Inequality, and Social Change\n\n\nFact Check Assignment\nThe objective for this assignment is for students to learn how to critically evaluate evidence in the media. It can be adapted for any content course and students pick their own sub-topic of interest to generate personal interest and motivation.\n\n\nFlipped Quiz Assignment\nStudents learn how to determine key content in course material. They also collaboratively create a study review guide by sharing their created quiz questions with classmates."
   }
 ]
