@@ -12,12 +12,12 @@ Sociology of Families \| SOC313 \| Fall 2020 [syllabus](https://rpubs.com/jpepin
 
 ### [Family Sociology Video Resource List](https://docs.google.com/document/d/1NF2REoE4Eo1FJWkp5h7l9cecQh5C4y-x/edit?usp=drive_link&ouid=116976022537856309917&rtpof=true&sd=true){target="_blank"}
 
-List of free videos that correspond with the chapters in the textbook: [The Family- Diversity, Inequality, and Social Change](https://wwnorton.com/books/9780393537314){target="_blank"}
+List of free videos that correspond with the chapters in the textbook: [The Family- Diversity, Inequality, and Social Change](https://wwnorton.com/books/9781324070986){target="_blank"}
 
-### [Fact Check Assignment](https://drive.google.com/file/d/1kUDHPcpGOdyJtWfDNAdHdKPQxzZLOnpd/view){target="_blank"}
+### [Fact Check Assignment](https://jrpepin.github.io/Sociology-of-the-Family/FactCheck.html){target="_blank"}
 
 The objective for this assignment is for students to learn how to critically evaluate evidence in the media. It can be adapted for any content course and students pick their own sub-topic of interest to generate personal interest and motivation.
 
-### [Flipped Quiz Assignment](https://drive.google.com/file/d/1guJrIHPewE4WS4_Ol4OXJssPMsqTlmmE/view){target="_blank"}
+### [Flipped Quiz Assignment](https://jrpepin.github.io/Sociology-of-the-Family/FlippedQuizzes.html){target="_blank"}
 
 Students learn how to determine key content in course material. They also collaboratively create a study review guide by sharing their created quiz questions with classmates.
