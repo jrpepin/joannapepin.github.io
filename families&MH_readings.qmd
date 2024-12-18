@@ -1,0 +1,47 @@
+---
+title: "Families & Mental Health"
+bibliography: references.bib
+---
+
+## Family structures and transitions
+
+Rosenfeld, Michael J. 2015. “Revisiting the Data from the New Family Structure Study: Taking Family Instability into Account.” *Sociological Science* 2:478–501. doi: [10.15195/v2.a23](https://doi.org/10.15195/v2.a23).
+
+[Raley? Demography pieces?]{style="color:red;"}
+
+## Marriage & well-being
+
+## Work & family interface
+
+[Oshio, Takashi, Akiomi Inoue, and Akizumi Tsutsumi. 2017. “Does Work-to-Family Conflict Really Matter for Health? Cross-Sectional, Prospective Cohort and Fixed-Effects Analyses.” *Social Science & Medicine (1982)* 175:36–42. doi: [10.1016/j.socscimed.2016.12.039](https://doi.org/10.1016/j.socscimed.2016.12.039).]{style="color:#18BC9C;"}
+
+[Schieman, Scott. 2019. “Ordinary Lives and the Sociological Character of Stress: How Work, Family, and Status Contribute to Emotional Inequality.” *Society and Mental Health* 9(2):127–42. doi: [10.1177/2156869319844805](https://doi.org/10.1177/2156869319844805).]{style="color:#18BC9C;"}
+
+## Relationship satisfaction
+
+## Fertility
+
+Cohen, Philip. 2016. “Maternal Age and Infant Mortality for White, Black, and Mexican Mothers in the United States.” *Sociological Science* 3:32–38. doi: [10.15195/v3.a2](https://doi.org/10.15195/v3.a2).
+
+Luppi, Francesca, Bruno Arpino, and Alessandro Rosina. 2020. “The Impact of COVID-19 on Fertility Plans in Italy, Germany, France, Spain, and the United Kingdom.” *Demographic Research* 43:1399–1412. doi: [10.4054/DemRes.2020.43.47](https://doi.org/10.4054/DemRes.2020.43.47).
+
+[(e.g., homicide and pregnancy)]{style="color:red;"}
+
+## Parenting
+
+Reczek, Corinne, Russell Spiker, Hui Liu, and Robert Crosnoe. 2016. “Family Structure and Child Health: Does the Sex Composition of Parents Matter?” *Demography* 53(5):1605–30. doi: [10.1007/s13524-016-0501-y](https://doi.org/10.1007/s13524-016-0501-y).
+
+† [Potter, Daniel, and Emma C. Potter. 2017. “Psychosocial Well-Being in Children of Same-Sex Parents: A Longitudinal Analysis of Familial Transitions.” *Journal of Family Issues* 38(16):2303–28. doi: [10.1177/0192513X16646338](https://doi.org/10.1177/0192513X16646338).]{style="color:#18BC9C;"}
+
+## Pandemic studies
+
+## XX
+
+## YY
+
+## ZZ
+
+***Notes:***\
+[Reading is included on a UofT comprehensive exam reading list]{style="color:#18BC9C;"}
+
+† Optional but recommended reading
