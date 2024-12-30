@@ -3,45 +3,111 @@ title: "Families & Mental Health"
 bibliography: references.bib
 ---
 
-## Family structures and transitions
+## Introduction
 
-Rosenfeld, Michael J. 2015. “Revisiting the Data from the New Family Structure Study: Taking Family Instability into Account.” *Sociological Science* 2:478–501. doi: [10.15195/v2.a23](https://doi.org/10.15195/v2.a23).
+Umberson, Debra, and Mieke Beth Thomeer. 2020. “Family Matters: Research on Family Ties and Health, 2010 to 2020.” *Journal of Marriage and Family* 82(1):404–19. doi: [10.1111/jomf.12640](https://doi.org/10.1111/jomf.12640).
 
-[Raley? Demography pieces?]{style="color:red;"}
+[Schieman, Scott. 2019. “Ordinary Lives and the Sociological Character of Stress: How Work, Family, and Status Contribute to Emotional Inequality.” *Society and Mental Health* 9:127–42. doi: [10.1177/2156869319844805](https://doi.org/10.1177/2156869319844805).]{style="color:#F39C12;"}
 
-## Marriage & well-being
+## Family policy
 
-## Work & family interface
+Tong, Yuying, and Bingdao Zheng. 2024. “Policy-Induced Fertility Suppression and Marital Satisfaction: Evidence From a Natural Experiment in China.” *Demography* 61(6):2027–51. doi: [10.1215/00703370-11686478](https://doi.org/10.1215/00703370-11686478).
 
-[Oshio, Takashi, Akiomi Inoue, and Akizumi Tsutsumi. 2017. “Does Work-to-Family Conflict Really Matter for Health? Cross-Sectional, Prospective Cohort and Fixed-Effects Analyses.” *Social Science & Medicine (1982)* 175:36–42. doi: [10.1016/j.socscimed.2016.12.039](https://doi.org/10.1016/j.socscimed.2016.12.039).]{style="color:#18BC9C;"}
+Gerson, Kathleen. 2023. “Why No One Can ‘Have It All’ and Why That Matters for Everyone.” *Sociological Forum* 38(4):1423–31. doi: [10.1111/socf.12959](https://doi.org/10.1111/socf.12959).
 
-[Schieman, Scott. 2019. “Ordinary Lives and the Sociological Character of Stress: How Work, Family, and Status Contribute to Emotional Inequality.” *Society and Mental Health* 9(2):127–42. doi: [10.1177/2156869319844805](https://doi.org/10.1177/2156869319844805).]{style="color:#18BC9C;"}
+Fasang, Anette Eva, and Silke Aisenbrey. 2022. “Uncovering Social Stratification: Intersectional Inequalities in Work and Family Life Courses by Gender and Race.” *Social Forces* 101(2):575–605. doi: [10.1093/sf/soab151](https://doi.org/10.1093/sf/soab151).
 
-## Relationship satisfaction
+† Wray, Dana. 2020. “Paternity Leave and Fathers’ Responsibility: Evidence from a Natural Experiment in Canada.” *Journal of Marriage and Family* n/a(n/a). doi: [10.1111/jomf.12661](https://doi.org/10.1111/jomf.12661).
+
+† Gauthier, Anne H., and Stuart Gietel-Basten. 2024. “Family Policies in Low Fertility Countries: Evidence and Reflections.” *Population and Development Review*. doi: [10.1111/padr.12691](https://doi.org/10.1111/padr.12691).
 
 ## Fertility
+
+Williams, Kristi, and Brian Karl Finch. 2019. “Adverse Childhood Experiences, Early and Nonmarital Fertility, and Women’s Health at Midlife.” *Journal of Health and Social Behavior* 60(3):309–25. doi: [10.1177/0022146519868842](https://doi.org/10.1177/0022146519868842).
 
 Cohen, Philip. 2016. “Maternal Age and Infant Mortality for White, Black, and Mexican Mothers in the United States.” *Sociological Science* 3:32–38. doi: [10.15195/v3.a2](https://doi.org/10.15195/v3.a2).
 
 Luppi, Francesca, Bruno Arpino, and Alessandro Rosina. 2020. “The Impact of COVID-19 on Fertility Plans in Italy, Germany, France, Spain, and the United Kingdom.” *Demographic Research* 43:1399–1412. doi: [10.4054/DemRes.2020.43.47](https://doi.org/10.4054/DemRes.2020.43.47).
 
-[(e.g., homicide and pregnancy)]{style="color:red;"}
+## Parenthood
 
-## Parenting
+Nomaguchi, Kei, and Melissa A. Milkie. 2020. “Parenthood and Well-Being: A Decade in Review.” *Journal of Marriage and Family* 82(1):198–223. doi: [10.1111/jomf.12646](https://doi.org/10.1111/jomf.12646).
 
-Reczek, Corinne, Russell Spiker, Hui Liu, and Robert Crosnoe. 2016. “Family Structure and Child Health: Does the Sex Composition of Parents Matter?” *Demography* 53(5):1605–30. doi: [10.1007/s13524-016-0501-y](https://doi.org/10.1007/s13524-016-0501-y).
+Ugur, Zeynep B. 2020. “Does Having Children Bring Life Satisfaction in Europe?” *Journal of Happiness Studies* 21(4):1385–1406. doi: [10.1007/s10902-019-00135-5](https://doi.org/10.1007/s10902-019-00135-5).
 
-† [Potter, Daniel, and Emma C. Potter. 2017. “Psychosocial Well-Being in Children of Same-Sex Parents: A Longitudinal Analysis of Familial Transitions.” *Journal of Family Issues* 38(16):2303–28. doi: [10.1177/0192513X16646338](https://doi.org/10.1177/0192513X16646338).]{style="color:#18BC9C;"}
+Musick, Kelly, Ann Meier, and Sarah Flood. 2016. “How Parents Fare: Mothers’ and Fathers’ Subjective Well-Being in Time with Children.” *American Sociological Review* 81(5):1069–95. doi: [10.1177/0003122416663917](https://doi.org/10.1177/0003122416663917).
 
-## Pandemic studies
+† Fingerman, Karen L., Yen-Pi Cheng, Kira Birditt, and Steven Zarit. 2012. “Only as Happy as the Least Happy Child: Multiple Grown Children’s Problems and Successes and Middle-Aged Parents’ Well-Being.” *The Journals of Gerontology: Series B* 67B(2):184–93. doi: [10.1093/geronb/gbr086](https://doi.org/10.1093/geronb/gbr086).
 
-## XX
+## Marital status
 
-## YY
+Perelli-Harris, Brienna, Stefanie Hoherz, Trude Lappegård, and Ann Evans. 2019. “Mind the ‘Happiness’ Gap: The Relationship Between Cohabitation, Marriage, and Subjective Well-Being in the United Kingdom, Australia, Germany, and Norway.” *Demography* 56:1219–46. doi: [10.1007/s13524-019-00792-4](https://doi.org/10.1007/s13524-019-00792-4).
 
-## ZZ
+Moss, Eden, and Brian J. Willoughby. 2018. “Associations between Beliefs about Marriage and Life Satisfaction: The Moderating Role of Relationship Status and Gender.” *Journal of Family Studies* 24:274–90. doi: [10.1080/13229400.2016.1187658](https://doi.org/10.1080/13229400.2016.1187658).
+
+Pepin, Joanna R., Liana C. Sayer, and Lynne M. Casper. 2018. “Marital Status and Mothers’ Time Use: Childcare, Housework, Leisure, and Sleep.” *Demography* 55:107–33. doi: [10.1007/s13524-018-0647-x](https://doi.org/10.1007/s13524-018-0647-x).
+
+† Carlson, Daniel L. 2012. “Deviations From Desired Age at Marriage: Mental Health Differences Across Marital Status.” *Journal of Marriage and Family* 74:743–58. doi: [10.1111/j.1741-3737.2012.00995.x](https://doi.org/10.1111/j.1741-3737.2012.00995.x).
+
+## Relationship transitions
+
+Tumin, Dmitry, and Hui Zheng. 2018. “Do the Health Benefits of Marriage Depend on the Likelihood of Marriage?” *Journal of Marriage and Family* 80:622–36. doi: [10.1111/jomf.12471](https://doi.org/10.1111/jomf.12471).
+
+Reczek, Corinne, Tetyana Pudrovska, Deborah Carr, Mieke Beth Thomeer, and Debra Umberson. 2016. “Marital Histories and Heavy Alcohol Use among Older Adults.” *Journal of Health and Social Behavior* 57:77–96. doi: [10.1177/0022146515628028](https://doi.org/10.1177/0022146515628028).
+
+Julian, Christopher A., and Susan L. Brown. 2024. “A National Portrait of the Well-Being of Remarried and Previously Married Cohabiting Older Adults.” *Aging & Mental Health* 0(0):1–12. doi: [10.1080/13607863.2024.2438834](https://doi.org/10.1080/13607863.2024.2438834).
+
+## Relationship quality
+
+Karney, Benjamin R., and Thomas N. Bradbury. 2020. “Research on Marital Satisfaction and Stability in the 2010s: Challenging Conventional Wisdom.” *Journal of Marriage and Family* 82(1):100–116. doi: [10.1111/jomf.12635](https://doi.org/10.1111/jomf.12635).
+
+Brown, Susan L., Wendy D. Manning, and Huijing Wu. 2021. “Relationship Quality in Midlife: A Comparison of Dating, Living Apart Together, Cohabitation, and Marriage.” *Journal of Marriage and Family*. doi: [10.1111/jomf.12813](https://doi.org/10.1111/jomf.12813).
+
+Gillespie, Brian Joseph, Gretchen Peterson, and Janet Lever. 2019. “Gendered Perceptions of Fairness in Housework and Shared Expenses: Implications for Relationship Satisfaction and Sex Frequency.” *PLOS ONE* 14(3):e0214204. doi: [10.1371/journal.pone.0214204](https://doi.org/10.1371/journal.pone.0214204).
+
+† Johnson, Matthew D., Scott M. Stanley, and Galena K. Rhoades. 2023. “Does Income Moderate Basic Relationship Processes?” *Journal of Marriage and Family* 85(1):72–91. doi: [10.1111/jomf.12877](https://doi.org/10.1111/jomf.12877).
+
+† Miller, Richard B., Cody S. Hollist, Joseph Olsen, and David Law. 2013. “Marital Quality and Health Over 20 Years: A Growth Curve Analysis.” *Journal of Marriage and Family* 75:667–80. doi: [10.1111/jomf.12025](https://doi.org/10.1111/jomf.12025).
+
+## Partner spillover
+
+Kowalewska, Helen, and Agnese Vitali. 2023. “The Female-Breadwinner Well-Being ‘Penalty’: Differences by Men’s (Un)Employment and Country.” *European Sociological Review*. doi: [10.1093/esr/jcad034](https://doi.org/10.1093/esr/jcad034).
+
+Garcia, Michael A., and Debra Umberson. 2019. “Marital Strain and Psychological Distress in Same-Sex and Different-Sex Couples.” *Journal of Marriage and Family* 81(5):1253–68. doi: [10.1111/jomf.12582](https://doi.org/10.1111/jomf.12582).
+
+Glauber, Rebecca, and Melissa D. Day. 2018. “Gender, Spousal Caregiving, and Depression: Does Paid Work Matter?” *Journal of Marriage and Family* 80:537–54. doi: [10.1111/jomf.12446](https://doi.org/10.1111/jomf.12446).
+
+† Joel, Samantha, et all. 2020. “Machine Learning Uncovers the Most Robust Self-Report Predictors of Relationship Quality across 43 Longitudinal Couples Studies.” *Proceedings of the National Academy of Sciences* 117(32):19061–71. doi: [10.1073/pnas.1917036117](#0).
+
+## Intimate partner violence
+
+Hardesty, Jennifer L., and Brian G. Ogolsky. 2020. “A Socioecological Perspective on Intimate Partner Violence Research: A Decade in Review.” *Journal of Marriage and Family* 82(1):454–77. doi: [10.1111/jomf.12652](https://doi.org/10.1111/jomf.12652).
+
+Sweet, Paige L. 2019. “The Paradox of Legibility: Domestic Violence and Institutional Survivorhood.” *Social Problems* 66:411–27. doi: [10.1093/socpro/spy012](https://doi.org/10.1093/socpro/spy012).
+
+Richie, Beth E., and Valli Kanuha. 1993. “Battered Women of Color in Public Health Care Systems: Racism, Sexism, and Violence.” Pp. 288–99 in *Wings of Gauze: Women of Color and the Experience of Health and Illness*, edited by B. Bair and S. E. Cayleff. Detroit, MI: Wayne State University Press.
+
+† Einiö, Elina, Niina Metsä-Simola, Mikko Aaltonen, Elina Hiltunen, and Pekka Martikainen. 2023. “Partner Violence Surrounding Divorce: A Record-Linkage Study of Wives and Their Husbands.” *Journal of Marriage and Family* 85(1):33–54. doi: [10.1111/jomf.12881](https://doi.org/10.1111/jomf.12881).
+
+## Work & family interface
+
+[Oshio, Takashi, Akiomi Inoue, and Akizumi Tsutsumi. 2017. “Does Work-to-Family Conflict Really Matter for Health? Cross-Sectional, Prospective Cohort and Fixed-Effects Analyses.” *Social Science & Medicine (1982)* 175:36–42. doi: [10.1016/j.socscimed.2016.12.039](https://doi.org/10.1016/j.socscimed.2016.12.039).]{style="color:#F39C12;"}
+
+Lu, Zhuofei, Shuo Yan, Jeff Jones, Yucheng He, and Qigen She. 2023. “From Housewives to Employees, the Mental Benefits of Employment across Women with Different Gender Role Attitudes and Parenthood Status.” *International Journal of Environmental Research and Public Health* 20(5):4364. doi: [10.3390/ijerph20054364](https://doi.org/10.3390/ijerph20054364).
+
+Chai, Lei, and Scott Schieman. 2023. “What Happens at Home Does Not Stay at Home: Family-to-Work Conflict and the Link Between Relationship Strains and Quality.” *Journal of Family and Economic Issues* 44(1):175–92. doi: [10.1007/s10834-022-09821-8](https://doi.org/10.1007/s10834-022-09821-8).
+
+## Divisions of labor
+
+Carlson, Daniel L., Amanda J. Miller, and Stephanie Rudd. 2020. “Division of Housework, Communication, and Couples’ Relationship Satisfaction.” *Socius* 6:2378023120924805. doi: [10.1177/2378023120924805](https://doi.org/10.1177/2378023120924805).
+
+Schieman, Scott, Leah Ruppanner, and Melissa A. Milkie. 2018. “Who Helps with Homework? Parenting Inequality and Relationship Quality Among Employed Mothers and Fathers.” *Journal of Family and Economic Issues* 39:49–65. doi: [10.1007/s10834-017-9545-4](https://doi.org/10.1007/s10834-017-9545-4).
+
+Gordon, Amie M., Emily Cross, Esra Ascigil, Rhonda Balzarini, Anna Luerssen, and Amy Muise. 2022. “Feeling Appreciated Buffers Against the Negative Effects of Unequal Division of Household Labor on Relationship Satisfaction.” *Psychological Science* 33(8):1313–27. doi: [10.1177/09567976221081872](https://doi.org/10.1177/09567976221081872).
+
+† Carlson, Daniel L., Richard J. Petts, and Joanna R. Pepin. 2021. “Flexplace Work and Partnered Fathers’ Time in Housework and Childcare.” *Men and Masculinities* 1097184X211014929. doi: [10.1177/1097184X211014929](https://doi.org/10.1177/1097184X211014929).
 
 ***Notes:***\
-[Reading is included on a UofT comprehensive exam reading list]{style="color:#18BC9C;"}
+[Reading is included on a UofT comprehensive exam reading list]{style="color:#F39C12;"}
 
 † Optional but recommended reading
