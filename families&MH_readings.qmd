@@ -7,9 +7,11 @@ bibliography: references.bib
 
 Umberson, Debra, and Mieke Beth Thomeer. 2020. “Family Matters: Research on Family Ties and Health, 2010 to 2020.” *Journal of Marriage and Family* 82(1):404–19. doi: [10.1111/jomf.12640](https://doi.org/10.1111/jomf.12640).
 
-[Schieman, Scott. 2019. “Ordinary Lives and the Sociological Character of Stress: How Work, Family, and Status Contribute to Emotional Inequality.” *Society and Mental Health* 9:127–42. doi: [10.1177/2156869319844805](https://doi.org/10.1177/2156869319844805).]{style="color:#F39C12;"}
+Gauthier, Anne H., and Stuart Gietel-Basten. 2024. “Family Policies in Low Fertility Countries: Evidence and Reflections.” *Population and Development Review*. doi: [10.1111/padr.12691](https://doi.org/10.1111/padr.12691).
 
-## Guest lecture – Philip Cohen 
+† [Schieman, Scott. 2019. “Ordinary Lives and the Sociological Character of Stress: How Work, Family, and Status Contribute to Emotional Inequality.” *Society and Mental Health* 9:127–42. doi: [10.1177/2156869319844805](https://doi.org/10.1177/2156869319844805).]{style="color:#F39C12;"}
+
+## Guest lecture – Philip Cohen
 
 Ruan, Hangqing, Melody Ge Gao, Yajie Xiong, and Philip N. Cohen. 2024. “Marital Status and Deaths from Alcohol, Drug Overdose, and Suicide in the United States: 2000–2021.” *Socius* 10:23780231241275429. doi: [10.1177/23780231241275429](https://doi.org/10.1177/23780231241275429).
 
@@ -26,8 +28,6 @@ Gerson, Kathleen. 2023. “Why No One Can ‘Have It All’ and Why That Matters
 Fasang, Anette Eva, and Silke Aisenbrey. 2022. “Uncovering Social Stratification: Intersectional Inequalities in Work and Family Life Courses by Gender and Race.” *Social Forces* 101(2):575–605. doi: [10.1093/sf/soab151](https://doi.org/10.1093/sf/soab151).
 
 † Wray, Dana. 2020. “Paternity Leave and Fathers’ Responsibility: Evidence from a Natural Experiment in Canada.” *Journal of Marriage and Family* n/a(n/a). doi: [10.1111/jomf.12661](https://doi.org/10.1111/jomf.12661).
-
-† Gauthier, Anne H., and Stuart Gietel-Basten. 2024. “Family Policies in Low Fertility Countries: Evidence and Reflections.” *Population and Development Review*. doi: [10.1111/padr.12691](https://doi.org/10.1111/padr.12691).
 
 ## Fertility
 
