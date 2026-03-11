@@ -1,0 +1,9 @@
+---
+title: "Current Status"
+author: "Joanna R. Pepin"
+date: "2026-03-11"
+categories: [news]
+draft: true
+---
+
+I moved to Toronto in 2023 after being hired by the University of Toronto as a family sociologist. One of the many perks of the job is the university pays for immigration lawyers to help new faculty obtain a temporary work permit and apply for permanent residency. Historically, this has meant that faculty begin the job with a work permit and after 1 year take all the necessary steps to submit an application for permanent residency. I did that. However, Canada has altered the point system for what it takes to be eligible for permanent residency (PR) in such as a way that being over the age of 30 makes it now nearly impossible to receive an invitation to apply for PR.

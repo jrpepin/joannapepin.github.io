@@ -10,3 +10,5 @@ soc395h/.secrets
 
 docs/CNAME
 
+
+**/*.quarto_ipynb

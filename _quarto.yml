@@ -19,7 +19,9 @@ website:
       - href: teaching.qmd
         text: Teaching
       - text: Blog
-        href: blog.qmd
+        href: posts.qmd
+      - icon: bluesky
+        href: https://bsky.app/profile/joannapepin.bsky.social
 
 format:
   html:
