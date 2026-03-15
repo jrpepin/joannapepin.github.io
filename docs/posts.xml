@@ -10,7 +10,16 @@
 <atom:link href="https://joannapepin.com/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Pepin blog</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 11 Mar 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title></title>
+  <dc:creator>Joanna R. Pepin</dc:creator>
+  <link>https://joannapepin.com/posts/status/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>news</category>
+  <guid>https://joannapepin.com/posts/status/</guid>
+  <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>How I Accidentally Became the Family Historian</title>
   <dc:creator>Joanna R. Pepin</dc:creator>
