@@ -32,6 +32,7 @@ format:
       dark: darkly
     css: styles.css
     toc: true
+    include-in-header: verification-follow_it-NLNC3eVTqV4kqX78ArsD.html
 
 editor: visual
 resources:
