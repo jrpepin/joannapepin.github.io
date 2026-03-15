@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Joanna R. Pepin"
+  site-url: https://joannapepin.com
+  description: "Pepin blog"
   navbar:
     left:
       - href: index.qmd

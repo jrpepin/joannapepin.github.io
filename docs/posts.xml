@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Joanna R. Pepin</title>
+<link>https://joannapepin.com/posts.html</link>
+<atom:link href="https://joannapepin.com/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Pepin blog</description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Fri, 13 Mar 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>So I Think I Am Canadian?</title>
+  <dc:creator>Joanna R. Pepin</dc:creator>
+  <link>https://joannapepin.com/posts/status/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I moved to Toronto in 2023 after being hired by the University of Toronto as a family sociologist. One of the many perks of the job is the university pays for immigration lawyers to help new faculty obtain a temporary work permit and apply for permanent residency. Historically, this has meant that faculty begin the job with a temporary work permit. After 1 year, we then submit an application for permanent residency. I did that. However, Canada has altered the point system for what it takes to be eligible for permanent residency (PR) in such as a way that being over the age of 30 makes it now nearly impossible to receive an invitation to apply for PR.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://joannapepin.com/posts/status/</guid>
+  <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>How I Accidentally Became the Family Historian</title>
+  <dc:creator>Joanna R. Pepin</dc:creator>
+  <link>https://joannapepin.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I wasn’t expecting a <a href="https://www.reddit.com/r/Canadiancitizenship/">Reddit link</a> to upend my life, but here we are! In January, my sister-in-law texted that she read an interesting Reddit thread and wondered if my husband and their family might qualify for Canadian citizenship under a new law. I’d vaguely heard of the “Lost Canadians” bill, but didn’t really know much about it.</p>
+<p>Basically, for many decades “Canadian citizenship by descent” has meant that only the first generation born outside Canada could automatically inherit citizenship from a Canadian parent. This <em>first‑generation limit</em> meant that grandchildren and later generations were excluded from citizenship by descent.</p>
+<p>But this changed on December 15, 2025. <a href="https://www.canada.ca/en/immigration-refugees-citizenship/news/2025/12/bill-c-3-an-act-to-amend-the-citizenship-act-2025-comes-into-effect.html">Bill C‑3</a> removed the first‑generation limit in most situations, making millions of people with Canadian ancestry eligible to reclaim their status.</p>
+<p>As Chris (my partner) and I dug into it, we realized that both our families may qualify. As we worked to put together an application for proof of Canadian citizenship (a story for another time), I began collecting a significant archive of documents regarding my family’s Canadian history. As of today, I have submitted my application (fingers crossed!).</p>
+<p>Unexpectedly, what began as bureaucratic paperwork slowly became a genuinely fun puzzle. I got hooked on the search itself and developed a new interest in learning about my family’s Canadian lineage.</p>
+<p>So, I’ve decided to start this blog dedicated primarily to tracing my family’s Canadian history. It’s a space where I’ll be sharing what I’ve learned so far, along with new findings as I keep researching. While the blog is meant first and foremost for family and friends, it will also serve as a companion space for a broader academic project I’m developing.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://joannapepin.com/posts/welcome/distillery.png" class="img-fluid figure-img" alt="A white barrel with maple leaves next to a bouquet of flowers on a brick road."></p>
+<figcaption>Distillery District, Toronto; June 2025</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>me</category>
+  <guid>https://joannapepin.com/posts/welcome/</guid>
+  <pubDate>Wed, 11 Mar 2026 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
