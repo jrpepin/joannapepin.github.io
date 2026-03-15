@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://joannapepin.com/teaching.html</loc>
+    <lastmod>2025-04-16T17:46:22.764Z</lastmod>
+  </url>
+  <url>
     <loc>https://joannapepin.com/posts.html</loc>
     <lastmod>2026-03-15T13:41:02.361Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joannapepin.com/families&amp;MH_readings.html</loc>
+    <lastmod>2025-01-13T14:47:15.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joannapepin.com/blog.html</loc>
+    <lastmod>2023-09-25T18:38:13.030Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joannapepin.com/index.html</loc>
+    <lastmod>2025-04-16T18:22:39.846Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joannapepin.com/posts/welcome/index.html</loc>
+    <lastmod>2026-03-11T21:34:20.719Z</lastmod>
+  </url>
+  <url>
+    <loc>https://joannapepin.com/press.html</loc>
+    <lastmod>2025-04-16T18:24:40.349Z</lastmod>
   </url>
 </urlset>
