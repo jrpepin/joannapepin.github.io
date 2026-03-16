@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/status/index.html",
       "/posts/welcome/index.html"
     ]
   }
