@@ -3,6 +3,9 @@ title: "A Surprise Walk-Off? I Think I Have Been Canadian This Whole Time"
 author: "Joanna R. Pepin"
 date: "2026-03-15"
 categories: [me]
+image: jays.png
+image-alt: "A giant Canadian flag on display in the outfield of the Blue Jays stadium."
+image-placement: none
 draft: true
 filters:
     - openlinksinnewpage
@@ -31,5 +34,3 @@ All of this lands even harder because of what’s happening back in the U.S. rig
 And the impact doesn’t stop with me. If this works out, it also means that my family members who share the same ancestry can apply for citizenship too. They could choose to move here if they ever wanted to. The idea that this door might open not just for me, but for (some of) the people I love, makes the discovery feel even bigger.
 
 For all these reasons, when I learned I might qualify as Canadian by descent, it was game changing. Like the possibility of a walk‑off win.
-
-![Rogers Centre, Toronto](jays.png){fig-alt="A giant Canadian flag on display in the outfield of the Blue Jays stadium."}
