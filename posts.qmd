@@ -2,6 +2,7 @@
 title: "Blog"
 page-layout: article
 margin-header: subscribe.html
+
 listing: 
   contents: posts # this name must match the name of the folder with posts
   type: default # or `grid` or `table`; each type has its own set of yaml options
