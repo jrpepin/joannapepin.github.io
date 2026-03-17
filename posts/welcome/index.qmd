@@ -1,7 +1,7 @@
 ---
 title: "How I Accidentally Became the Family Historian"
 date: "2026-03-11"
-categories: [news, me]
+categories: [news, me, Bill C‑3]
 image: distillery.png
 image-alt: "A white barrel with maple leaves next to a bouquet of flowers on a brick road."
 image-placement: none
