@@ -18,6 +18,8 @@ website:
         menu: 
           - text: "Repositories"
             href: https://github.com/jrpepin
+          - text: "ATUS Tutorial"
+            href: https://jrpepin.github.io/IPUMS-American-Time-Use-Surveys-in-R/
       - href: teaching.qmd
         text: Teaching
       - text: Blog
