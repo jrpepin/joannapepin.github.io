@@ -1,8 +1,8 @@
 ---
-title: "Julius"
+title: "I woke up Canadian!"
 author: "Joanna R. Pepin"
 date: "2026-03-25"
-categories: [Pepin, Julius]
+categories: [Pepin, Julius, news, me, Bill C‑3]
 #image: jays.png
 #image-alt: "A giant Canadian flag on display in the outfield of the Blue Jays stadium."
 #image-placement: none
@@ -10,4 +10,5 @@ filters:
     - openlinksinnewpage
 draft: true
 ---
+
 
