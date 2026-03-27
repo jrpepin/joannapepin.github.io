@@ -1,8 +1,8 @@
 ---
-title: "I woke up Canadian!"
+title: "Julius"
 author: "Joanna R. Pepin"
 date: "2026-03-27"
-categories: [Pepin, Julius, news, me, Bill C‑3]
+categories: [Pepin, Julius]
 image: baptism.png
 image-alt: "A page showing baptism records in French script"
 image-placement: none
@@ -11,22 +11,12 @@ filters:
 draft: true
 ---
 
-It's official! I'm a Canadian citizen!
+Kinda knew my dad’s side of the family was French Canadian, but I didn’t know how far back I would have to go to establish that. Started with finding my grandfather’s birth certificate. It turned out it was on Ancestry.com, which is accessible for free from a public library (library’s are the best!). Once I found that, knew his parents names. Typed his dad’s name (George Pepin) into FamilySearch.org, a website run by the LDS church. Established on their website that he was born in Chicago and the family tree populated. I could then see that George’s father (Julius Pepin) was born in Montreal!
 
-Prove Canadian ancestry line through my paternal grandfather, Gene Pepin. 
+[add family tree image here]
 
-While neither of his parents were born in Canada, his paternal grandfather and maternal grandmother were both born in Canada. That means his parents were both first generation Canadians.
+For proof of CAN citizenship, must submit the birth records for everyone in the line back to and including the Canadian ancestor. Have mine and my dad's. Then, needed to find my great grandfather’s and his father’s. 
 
-![](tree.png)
+Started with my Canadian ancestor, Julius, my grandfather’s grandfather. FamilySearch told me he was born in about 1866 which was before birth records. According to the Reddit group, that meant I would need to find a baptismal record. Finding a baptismal record requires finding the church the family must have attended, which led me on a path to trying to find out where the Pepin family was living when Julius was born. 
 
-In 2009, Citizenship, Immigration and Multiculturalism Minister Jason Kenney [released a commercial](https://www.canada.ca/en/news/archive/2009/04/will-you-wake-up-canadian-minister-kenney-launches-video-raise-awareness-new-citizenship-law.html) to announce changes to Canada's citizenship law. The aim of the video was to make people aware that the first generation of people born outside of Canada (on or after January 1, 1947) to Canadian parents were entitled to citizenship. 
-
-
-As it happens, the 2009 revision to the citizenship law limited citizenship by descent to the first generation born outside Canada. This restriction was overturned by Canada's supreme court and was removed from the Citizenship Act with the implementation of Bill C-3 in December of 2025. 
-
-Which make my grandfather Canadian, my father Canadian, and me Canadain!
-
-
-
-
-Happy Opening Day! 
+Started with the 1871 Canadian Census. Julius is listed as four years old and his family was Catholic. The next step was to find Cathloc churches nearby 

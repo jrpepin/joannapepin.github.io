@@ -5,7 +5,7 @@ margin-header: subscribe.html
 
 listing: 
   contents: posts # this name must match the name of the folder with posts
-  type: grid # or `grid` or `table`; each type has its own set of yaml options
+  type: grid # or `default` or `table`; each type has its own set of yaml options
   sort: "date desc" # can also sort on more than one field
   categories: true # allows you to sort posts by assigned categories 
   feed: true
