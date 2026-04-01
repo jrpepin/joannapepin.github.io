@@ -16,7 +16,7 @@ It's been a bit disorienting to go from a [text about a Reddit thread](https://j
 
 I was able to demonstrate my Canadian ancestry through my paternal grandfather, Gene Pepin. While neither of my grandfather's parents were born in Canada, his paternal grandfather and maternal grandmother were both born in Canada. That makes his parents first generation Canadians. 
 
-![](tree.png)
+![](tree.png){width=50%}
 
 **What made this possible?**  
 
