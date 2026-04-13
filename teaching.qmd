@@ -11,13 +11,12 @@ Intimate Relationships \| SOC395H1 \| Spring 2025 [syllabus](https://jrpepin.git
 Sociology of the Family \| SOC214H1 \| Fall 2024 [syllabus](https://jrpepin.github.io/Sociology-of-the-Family/){target="_blank"}
 
 Sociology of (U.S.) Families \| SOC313 \| Fall 2020 [syllabus](https://rpubs.com/jpepin/soc313_FA2020){target="_blank"}
-  
+
 Social Statistics \| SOC294 \| Spring 2023 [syllabus](https://rpubs.com/jpepin/soc294_SP23){target="_blank"}
 
-### Graduate  
+### Graduate
 
-Stats for Sociologists \| SOC6302 \| Fall 2026 [syllabus](https://jrpepin.github.io/Stats-for-Sociologists/){target="_blank"}
-[materials]()
+Stats for Sociologists \| SOC6302 \| Fall 2026 [syllabus](https://jrpepin.github.io/Stats-for-Sociologists/){target="_blank"} 
 
 
 
@@ -34,3 +33,8 @@ The objective for this assignment is for students to learn how to critically eva
 ### [Flipped Quiz Assignment](https://jrpepin.github.io/Sociology-of-the-Family/FlippedQuizzes.html){target="_blank"}
 
 Students learn how to determine key content in course material. They also collaboratively create a study review guide by sharing their created quiz questions with classmates.
+
+### [Stats for Sociologists materials](https://joannapepin.com/SOC6302.html){target="_blank"}
+
+This page contains an outline of the course readings, tutorial topics, lecture materials, and assignments.
+
