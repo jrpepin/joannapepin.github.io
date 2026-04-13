@@ -1,0 +1,65 @@
+---
+title: "SOC6302: Stats for Sociologists"
+editor_options: 
+  chunk_output_type: console
+---
+
+[syllabus](https://jrpepin.github.io/Stats-for-Sociologists/)  
+
+This page contains an outline of the course readings, tutorial topics, lecture materials, and assignments.   
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(googlesheets4)
+library(gt)
+library(tidyverse)
+
+gs4_deauth()
+
+d <- read_sheet(
+  "https://docs.google.com/spreadsheets/d/1W3SSN_HG9hULeiVC66upl57uxtXntY96xCs9ru5yWe4/edit?pli=1&gid=1768854943#gid=1768854943",
+  sheet = "web"
+)
+
+```
+
+```{r}
+#| echo: false
+#| column: screen-inset-right
+
+d |>
+  gt() |>
+  tab_options(table.font.size = 13) |>
+  sub_missing(columns = everything(), missing_text = "") |>
+  fmt_markdown(columns = everything()) |>
+    cols_width(
+    Week ~ pct(5),
+    Reading ~ pct(40),
+    Tutorial ~ pct(20),
+    Lecture ~ pct(20),
+    `Assignment Due` ~ pct(15)
+  ) |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_column_labels(
+      everything())) |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = 1)
+  ) |>
+  tab_style(
+    style = cell_text(color = "#f39c12",
+                      weight = "bold"),
+    locations = cells_body(
+      rows = c(7, 12), columns = 3)) |>
+    tab_style(
+    style = cell_text(color = "#e74c3c",
+                      weight = "bold"),
+    locations = cells_body(
+      rows = c(13), columns = 5))
+
+```
+
