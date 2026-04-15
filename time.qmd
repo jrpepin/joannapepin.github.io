@@ -1,0 +1,199 @@
+---
+title: "Untitled"
+---
+
+```{r}
+library(tidyverse)
+library(here)
+```
+
+```{r}
+
+# 1. Get full paths to all CSVs in the "time" folder
+soc6302 <- list.files(here("time/SOC6302"), pattern = "\\.csv$", full.names = TRUE)
+soc387  <- list.files(here("time/SOC387"), pattern = "\\.csv$", full.names = TRUE)
+
+# 2. Read and combine them into class data frames
+df_stats <- soc6302 |>
+  map_dfr(~ read_delim(.x, delim = ";", show_col_types = FALSE) |>
+            mutate(class = "soc6302"))
+
+df_policy <- soc387 |>
+  map_dfr(~ read_delim(.x, delim = ";", show_col_types = FALSE) |>
+            mutate(class = "soc387"))
+
+df <- bind_rows(df_stats, df_policy)
+
+```
+
+Total logged hours spent per class
+
+```{r}
+
+df |>
+  group_by(class) |>
+  summarise(
+    total_worked = sum(as.numeric(Worked), na.rm = TRUE),
+    total_worked = seconds_to_period(total_worked),
+    total_worked = sprintf("%02d:%02d",
+                           hour(total_worked),
+                           minute(total_worked))
+  )
+
+```
+
+
+Split equally the time for multiple tasks
+
+```{r}
+
+df <- df |>
+  # 1. Split Titles into a list-column of tasks
+  mutate(
+    task_list = str_split(Titles, "\\s*\\|\\s*")
+  ) |>
+  
+  # 2. Count how many tasks per row
+  mutate(
+    n_tasks = lengths(task_list)
+  ) |>
+  
+  # 3. Convert Worked (hms/difftime) → numeric seconds
+  mutate(
+    worked_seconds = as.numeric(Worked)
+  ) |>
+  
+  # 4. Divide time equally across tasks
+  mutate(
+    seconds_per_task = worked_seconds / n_tasks
+  ) |>
+  
+  # 5. Unnest so each task becomes its own row
+  unnest(task_list) |>
+  
+  # 6. Clean up
+  mutate(
+    task = task_list,
+    Worked_split = seconds_to_period(seconds_per_task)
+  ) |>
+  select(-task_list, -n_tasks, -worked_seconds, -seconds_per_task)
+```
+
+
+Estimate of time per class and task
+
+```{r}
+
+df_tasks <- df |>
+  group_by(class, task) |>
+  summarise(
+    seconds = sum(as.numeric(Worked_split), na.rm = TRUE),
+    total_worked = seconds_to_period(seconds),
+    total_worked = sprintf("%02d:%02d",
+                           hour(total_worked),
+                           minute(total_worked))
+  ) |>
+  ungroup()
+
+
+# make meaningful categories
+df_tasks <- df_tasks |>
+  mutate(
+    category = case_when(
+      str_detect(task, regex("^Grade", ignore_case = TRUE)) ~ "grading",
+      str_detect(task, regex("^Lecture", ignore_case = TRUE)) ~ "lectures",
+      str_detect(task, regex("Milestone", ignore_case = TRUE)) ~ "milestones",
+      str_detect(task, regex("final exam|mid-?term", ignore_case = TRUE)) ~ "exams",
+      str_detect(task, regex("code-along", ignore_case = TRUE)) ~ "code-alongs",
+      str_detect(task, regex("tutorial", ignore_case = TRUE)) ~ "tutorials",
+      TRUE ~ "other"
+    )
+  ) |>
+  ungroup()
+
+
+```
+
+## SOC6302
+
+Fill in missing time estimates for each category 
+
+```{r}
+
+# Filter & convert Worked_split to seconds
+df_6302 <- df_tasks |>
+  filter(class == "soc6302")
+
+# Define how many tasks each category should have
+expected_counts <- tibble(
+  category = c("lectures", "tutorials", "code-alongs", "milestones"),
+  expected_n = c(9, 9, 9, 4)
+)
+
+# Count how many tasks you actually have per category
+actual_counts <- df_6302 |>
+  count(category, name = "actual_n")
+
+# Compute average seconds per category (for filling missing rows)
+category_avgs <- df_6302 |>
+  group_by(category) |>
+  summarise(avg_seconds = mean(seconds, na.rm = TRUE))
+
+# Determine how many rows are missing per category
+counts <- expected_counts |>
+  left_join(actual_counts, by = "category") |>
+  mutate(actual_n = replace_na(actual_n, 0)) |>
+  left_join(category_avgs, by = "category") |>
+  mutate(n_missing = expected_n - actual_n)
+
+# Create filler rows for missing tasks
+missing_rows <- counts |>
+  filter(n_missing > 0) |>
+  rowwise() |>
+  mutate(
+    filler = list(
+      tibble(
+        category = category,
+        task = paste(category, "placeholder"),
+        seconds = rep(avg_seconds, n_missing)
+      )
+    )
+  ) |>
+  select(filler) |> 
+  unnest(filler)
+
+
+
+# Combine original + filler rows
+df_filled <- bind_rows(
+  df_6302 |> select(category, task, seconds),
+  missing_rows
+)
+
+
+```
+
+
+Compute average hours/minutes per category
+
+```{r}
+
+to_hm <- function(sec) {
+  p <- seconds_to_period(sec)
+  total_hours <- hour(p) + 24 * day(p)
+  sprintf("%02d:%02d", total_hours, minute(p))
+}
+
+df_summary <- df_filled |>
+  group_by(category) |>
+  summarise(
+    total_seconds = sum(seconds, na.rm = TRUE),
+    avg_seconds   = mean(seconds, na.rm = TRUE),
+    total_hm      = to_hm(total_seconds),
+    avg_hm        = to_hm(avg_seconds)
+  ) |>
+  filter(category != "exams" & category != "grading")
+
+df_summary
+```
+
