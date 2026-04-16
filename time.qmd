@@ -8,7 +8,6 @@ library(here)
 library(kableExtra)
 ```
 
-
 ```{r echo=FALSE}
 
 #| label: data
@@ -52,7 +51,6 @@ df |>
   kable()
 
 ```
-
 
 ```{r echo=FALSE}
 
@@ -125,6 +123,8 @@ df_tasks <- df_tasks |>
 
 ```
 
+<br>  
+
 ## SOC6302
 
 ```{r echo=FALSE}
@@ -183,7 +183,6 @@ df_6302_all <- bind_rows(
 
 ```
 
-
 Average time (hours & minutes) per category
 
 ```{r echo=FALSE}
@@ -206,16 +205,40 @@ df_6302_summary <- df_6302_all |>
   ) |>
   filter(category != "grading")
 
-df_6302_summary
+df_6302_summary |>
+  kable()
+
 ```
 
-## SOC387
+<br>  
 
-Fill in missing time estimates for each category 
+Total **estimated** time spent 
+
+```{r echo=FALSE}
+
+#| label: all-time-6302
+
+df_6302_summary <- df_6302_all |>
+  summarise(
+    total_seconds = sum(seconds, na.rm = TRUE),
+    avg_seconds   = mean(seconds, na.rm = TRUE),
+    total_hm      = to_hm(total_seconds),
+    avg_hm        = to_hm(avg_seconds)
+  ) 
+
+df_6302_summary |>
+  kable()
+
+```
+
+
+## SOC387
 
 ```{r echo=FALSE}
 
 #| label: missing-387
+
+# Fill in missing time estimates for each category
 
 # Filter & convert Worked_split to seconds
 df_387 <- df_tasks |>
@@ -288,5 +311,29 @@ df_387_summary <- df_387_all |>
     avg_hm        = to_hm(avg_seconds)
   ) 
 
-df_387_summary
+df_387_summary |>
+  kable()
+
 ```
+
+<br>  
+
+Total **estimated** time spent 
+
+```{r echo=FALSE}
+
+#| label: all-time-387
+
+df_387_summary <- df_387_all |>
+  summarise(
+    total_seconds = sum(seconds, na.rm = TRUE),
+    avg_seconds   = mean(seconds, na.rm = TRUE),
+    total_hm      = to_hm(total_seconds),
+    avg_hm        = to_hm(avg_seconds)
+  ) 
+
+df_387_summary |>
+  kable()
+
+```
+
