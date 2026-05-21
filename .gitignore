@@ -12,3 +12,4 @@ docs/CNAME
 
 
 **/*.quarto_ipynb
+.positai

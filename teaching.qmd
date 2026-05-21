@@ -8,8 +8,7 @@ title: "Teaching"
 
 Intimate Relationships \| SOC395H1 \| Spring 2026 [syllabus](https://jrpepin.github.io/Intimate-Relationships/){target="_blank"}
 
-Families & Health \| SOC427H1 \| Spring 2026
-[syllabus](https://jrpepin.github.io/Families-and-Health/){target="_blank"}
+Families & Health \| SOC427H1 \| Spring 2026 [syllabus](https://jrpepin.github.io/Families-and-Health/){target="_blank"}
 
 Sociology of the Family \| SOC214H1 \| Fall 2024 [syllabus](https://jrpepin.github.io/Sociology-of-the-Family/){target="_blank"}
 
@@ -19,13 +18,11 @@ Social Statistics \| SOC294 \| Spring 2023 [syllabus](https://rpubs.com/jpepin/s
 
 ### Graduate
 
-Stats for Sociologists \| SOC6302 \| Fall 2026 [syllabus](https://jrpepin.github.io/Stats-for-Sociologists/){target="_blank"} 
-
-
+Stats for Sociologists \| SOC6302 \| Fall 2026 [syllabus](https://jrpepin.github.io/Stats-for-Sociologists/){target="_blank"}
 
 ## Instructor Resources
 
-### [Family Sociology Video Resource List](https://docs.google.com/document/d/1NF2REoE4Eo1FJWkp5h7l9cecQh5C4y-x/edit?usp=drive_link&ouid=116976022537856309917&rtpof=true&sd=true){target="_blank"}
+### [Family Sociology Video Resource List](https://docs.google.com/document/d/1NF2REoE4Eo1FJWkp5h7l9cecQh5C4y-x/view?usp=drive_link&ouid=116976022537856309917&rtpof=true&sd=true){target="_blank"}
 
 List of free videos that correspond with the chapters in the textbook: [The Family- Diversity, Inequality, and Social Change](https://wwnorton.com/books/9781324070986){target="_blank"}
 
@@ -40,4 +37,3 @@ Students learn how to determine key content in course material. They also collab
 ### [Stats for Sociologists materials](https://joannapepin.com/SOC6302.html){target="_blank"}
 
 This page contains an outline of the course readings, tutorial topics, lecture materials, and assignments.
-
