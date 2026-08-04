@@ -1,0 +1,57 @@
+---
+title: "Curious George"
+author: "Joanna R. Pepin"
+date: "2026-08-04"
+categories: [Pepin, Jules]
+image: 01_George_map_old.png
+image-alt: "A historical map of Chicago"
+image-placement: none
+lightbox: true
+filters:
+    - openlinksinnewpage
+draft: true
+---
+
+After riding high from reading 1800 baptism records in cursive French, we thought finding my great grand-father's, George, birth record would be so much easier. From the Canadian and US census records, we knew the family moved to Chicago when Julius was a child. So, the records should be in English and with any luck, there might be a birth certificate/record rather than needing to find a baptism record. It turns out we were over confident. And, documentation of George's birth was even more challenging than Jules. The following is the account of how we eventually found what we needed, but the memory is a bit fuzzy and the strategy was far more circular than this writing will make it appear.
+
+According to [our research](https://www.ilsos.gov/departments/archives/gen-research.html), county clerks in Illinois began recording births in 1877, though these records weren't mandated by the state until 1916. [FamilySearch.org](FamilySearch.org) listed his birthday as January 1894, so I was hopeful a record existed. I spent a lot of time looking through every possible database and index on FamilySearch that I could find. Some of the IL christening records have already been indexed on FamilySearch, but George's was unfortunately not one of them. A check of Ancestry also didn't show any sources for his birth record. Eventually, I came to accept that his birth must not have been reported to the government, and I was going to need to hunt for a baptism record again.
+
+Building off of what we learned for Julius, we started with identifying the first address closest to the date we thought George was born (1894) so we could identify nearby churches. According to the 1900 US Census, the family was living at 3928 La Salle street in Chicago.
+
+![](01_George_1900_US_Census.png){group="my-gallery"}
+
+The Google map search of the address with Catholic churches nearby was confusing. On the one hand, it seemed like a bad sign that the current address appears to be in the middle of I-90. On the other hand, there were a handful of churches nearby. The most promising church was St. Gabriel, as it was close by. FamilySearch.org has an inventory of records for [200 churches in the Diocese of Chicago](https://www.familysearch.org/en/wiki/Illinois,_Chicago,_Catholic_Church_Records_-_Inventory), so I started with St. Gabriel. The microfiche images of the records are available online, so it requires clicking through the images, ideally through the index if there is one, or looking at the baptism images for around the date one might expect a baby born in January to have been baptized. I couldn't find it in this church, so I repeated the process for all of the other churches on the map that were available in this way.  
+
+![](01_George_map.png){group="my-gallery"}
+
+When that didn't work out, we decided we needed to replicate what we did for Julius and find a map of old churches. It was possible that the church closed and that it wasn't coming up on the Google map search. The Archdiocese of Chicago has a downloadable [book with maps of Chicago city parishes](https://archives.archchicago.org/genealogy-resources) with dates and ethnicity of the parishes. It also compiled a downloadable Excel spreadsheet of the data which makes limiting the 200 parishes a bit easier. This book turned out to be the critical piece of our search, but it also sent us hunting in the wrong direction for awhile. 
+
+It was a bit difficult to find the La Salle address on the map. Chicago street names and numbering were changed in the early 1900s, and given the home address marks a spot on today's interstate highway, we were estimating the location. Adding to the complication, the address we were looking for was at the bottom/top of the two-page map. Our mapped address was located right across Pershing Rd, and the preface of this book stated: "The maps in this guide (not to true scale) are divided into two halves for each set of years that I refer to as upper city and lower city, Pershing Road (3900S) being the dividing line." So, we weren't really sure where the house was located. It was another full day before we got the house percisely marked on the map.
+
+Instead, we filtered the corresponding Excel file to French ethnicity, as this seemed to be a key demographic detail in the description of the churches, and it seemed to make sense that we'd be looking for French speaking churches. We eliminated all churches that were founded after 1894 and then looked at each microfiche collection for churches that seemed reasonably close to our estimated area for the house. This led to nothing. 
+
+
+![](01_George_map_old.png){group="my-gallery"}
+
+When that led to dead ends, we looked at French speaking churches nearby the next address we had for the family as reported in the 1910 US Census. This was also the address my family knew about, located on Carpenter Street near train tracks. We hypothesized that the family may have moved to this neighborhood because they already had a community there. This was fruitless. Then, we tried to find neighborhoods where French Canadians landed in Chicago. These appeared to be somewhat nearby but west of the La Salle address. A search of the records of those churches also turned up nothing. 
+
+At some point in this search, we found an article documenting Jules and Mary's (George's parents) 50th wedding anniversary. The anniversary was noted in the Chicago Daily News as a milestone event because they were the first known deaf couple in the area to reach their Golden anniversary (more on that another time!). I had known at some point, but had forgotten learning that my grandfather's grandparents were deaf. Suddenly, the search for French speaking churches seemed a bit silly. So, off we went looking for historical churches for the deaf. This was also leading to dead ends, as many of these records were not available online, but it was starting to feel like an explanation for why we couldn't find a baptism record. Still, without strong evidence that was the reason, I kept searching.
+
+We searched church records at all the churches nearby the addresses located in the newspaper article (e.g., their current church, previous church). I also found a written memory from my grandfather of a Chicago church he attended as a child. These records also turned up without anything notable.
+
+Finally, we decided to find exactly where on the map this La Salle address was and work from proximity, ignoring the ethnicity of the churches. The closest church, #31, was Irish church St. Gabriel which we had already ruled out in the initial search of current churches. Church #40 was St. Cecilia, listed as an Irish church and church #131 was St. George (would have been ironic!) listed as a German church. Late into the evening, when I should have been heading to bed, I finally found George Pepin at the top of the page of the microfiche for St. Cecilia! 
+
+![](01_George_index.png){group="my-gallery"}
+
+We clicked through the microfishe until we found his baptism record. Unlike Julius' record which was in paragraph form, this one was a single line entry. Importantly, it had all the pertinent information, tying George to Jules. 
+
+![](01_George_baptism.png){group="my-gallery"}
+
+It lists his birth date as January 11, 1894 and his baptism took place on January 21st, 1894. This was a bit surprising, because the other documentation available for George (draft card, SSI, tombstone) all list his birthdate as January 5th. It's a mystery if the date got recorded incorrectly or if somewhere along the way, it got mis-remembered. 
+
+
+
+Saga continues: trying to get a certified copy of the baptism requires birth and death certificate of Gene. Now have death certificate, ordered certified birth certificate. Then, will ask for certified copy. 
+
+https://www.ilsos.gov/departments/archives/databases.html
+https://apps.ilsos.gov/isa/globalsrch.jsp
