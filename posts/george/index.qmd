@@ -9,7 +9,7 @@ image-placement: none
 lightbox: true
 filters:
     - openlinksinnewpage
-draft: true
+draft: false
 ---
 
 The next step in my document hunt for my [Canadian citizenship by decent application](https://joannapepin.com/posts/welcome/) was to find my great grandfather George's birth record. Riding high from reading [1800s baptism records in cursive French](https://joannapepin.com/posts/jules/), I thought finding George's birth record would be so much easier. The 1880 US census record showed the Pepin family living in Chicago when [Jules](https://joannapepin.com/posts/jules/) was 13 years old. So, his son George's record should be in English and with any luck, there might even be a birth certificate/record rather than solely a baptism record.
