@@ -1,7 +1,7 @@
 ---
 title: "Curious George"
 author: "Joanna R. Pepin"
-date: "2026-08-05"
+date: "2026-08-06"
 categories: [Pepin, George]
 image: 01_George_map_old.png
 image-alt: "A historical map of Chicago"
