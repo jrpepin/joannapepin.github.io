@@ -14,7 +14,7 @@ draft: true
 
 The next step in my document hunt for my [Canadian citizenship by decent application](https://joannapepin.com/posts/welcome/) was to find my great grandfather George's birth record. Riding high from reading [1800 baptism records in cursive French](https://joannapepin.com/posts/jules/), I thought finding George's birth record would be so much easier. The 1880 US census record showed the family living in Chicago when [Jules](https://joannapepin.com/posts/jules/) was 13 years old. So, George's records should be in English and with any luck, there might even be a birth certificate/record rather than a baptism record. 
 
-![1880 US Census Record](00_Jules_1880_US_Census.png){group="my-gallery"}
+![1880 US Census Record](00_Jules_1880_US_Census.WebP){group="my-gallery"}
   
 It turns out, I was over confident and documentation of George's birth was even more challenging than Jules (George's dad).
 
@@ -28,7 +28,7 @@ The following is the account of how I eventually found what I needed, but my mem
 ::: {.column width="60%"}
 
 
-![George Pepin, front right](george-right-front.jpg){group="my-gallery" width="90%"}
+![George Pepin, front right](george-right-front.WebP){group="my-gallery" width="90%"}
 
 :::
 :::::
@@ -37,11 +37,11 @@ We learned that county clerks in [Illinois began recording births in 1877](https
 
 Building on the experience with finding Jules's baptism, it made sense to start by locating the family address closest to the date George was born (1894) in order to identify nearby churches. Unfortunately, we were unable to locate an address for the family from the 1890 US Census, likely because it was [burned in a fire](https://www.census.gov/about/history/stories/monthly/2021/january-2021.html) that destroyed most of these records. So, turning to the 1900 US Census, I could see the family was living at 3928 La Salle street in Chicago.
 
-![1900 US Census Record](01_George_1900_US_Census.png){group="my-gallery"}
+![1900 US Census Record](01_George_1900_US_Census.WebP){group="my-gallery"}
 
 The Google map search of Catholic churches nearby the address was a bit confusing. On the one hand, it seemed like a bad sign that the current address appears to be in the middle of I-90. On the other hand, there were a handful of churches nearby. FamilySearch.org has an inventory of records for [200 churches in the Diocese of Chicago](https://www.familysearch.org/en/wiki/Illinois,_Chicago,_Catholic_Church_Records_-_Inventory), so I started with the three closest churches surrounding the address. The microfiche images of the records are available online, so it requires clicking through the images, ideally through the index if there is one, or looking at the baptism images for around the date one might expect a baby born in January to have been baptized. I couldn't find it in any of these churches, so I repeated the process for all of the other churches on the map that were available in this way.  
 
-![2026 Google Map of Chicago](01_George_map.png){group="my-gallery"}
+![2026 Google Map of Chicago](01_George_map.WebP){group="my-gallery"}
 
 When that didn't work out, Chris and I decided we needed to replicate what we did for Jules and find a map of old churches. It was possible that the church closed and that it wasn't coming up on the Google map search. We discovered that the Archdiocese of Chicago has a downloadable [book with maps of Chicago city parishes](https://archives.archchicago.org/genealogy-resources) with dates and ethnicity of the parishes. It also compiled a downloadable Excel spreadsheet of the data which makes limiting the 200 parishes a bit easier. This book turned out to be the critical piece of our search, as the church holding the baptism record has indeed closed, but it also sent us hunting in the wrong direction for awhile. 
 
@@ -50,7 +50,7 @@ It was a bit difficult to find the La Salle address on the map. Chicago street n
 We filtered the corresponding Excel file to French ethnicity, as this seemed to be a key demographic detail in the description of the churches in this book and on FamilySearch, and it seemed to make sense that we'd be looking for French speaking churches. We eliminated all churches that were founded after 1894 and then looked at each microfiche collection for churches that seemed reasonably close to our estimated area for the house. This led to nothing. 
 
 
-![Locations of Chicago Roman Catholic Churches 1850 - 1990](01_George_map_old.png){group="my-gallery"}
+![Locations of Chicago Roman Catholic Churches 1850 - 1990](01_George_map_old.WebP){group="my-gallery"}
 
 Since we didn't have the 1890 US Census, we identified the previous family address as listed in the 1880 US Census and looked at records from the French churches nearby. This seemed promising because the family had only moved south on La Salle street in the 20 years, so maybe they weren't too far away when George was born. Notice on the map that we've marked the La Salle street houses just to the left of State street, and that State street appears in different places on the top and bottom page. This led to a lot of confusion for awhile.
 
@@ -64,11 +64,11 @@ We searched church records at all the French churches nearby the addresses locat
 
 Finally, we decided to find exactly where on the map the 1900 La Salle address was and work from proximity, ignoring the listed ethnicity of the churches. The closest church, #31, was Irish church St. Gabriel which we had already ruled out in the initial search of currently active churches. Church #40 was St. Cecilia, listed as an Irish church and church #131 was St. George (would have been ironic!) listed as a German church. Late into the evening, when I should have been heading to bed, I finally found George Pepin at the top of the page of the microfiche for St. Cecilia! 
 
-![Peppin, George](01_George_index.png){group="my-gallery" width="50%"}
+![Peppin, George](01_George_index.WebP){group="my-gallery" width="50%"}
 
 We clicked through the microfishe until we found his baptism record. Unlike Jules' record which was in paragraph form, this one was a single line entry. Importantly, it had all the pertinent information, linking George to Jules. 
 
-![George baptism record](01_George_baptism.png){group="my-gallery"}
+![George baptism record](01_George_baptism.WebP){group="my-gallery"}
 
 It lists his birth date as January 11, 1894 and his baptism took place on January 21st, 1894. This was a bit surprising, because the other documentation available for George (draft card, SSI, tombstone) all list his birthdate as January 5th. It's a mystery if the date got recorded incorrectly or if somewhere along the way, it got mis-remembered. 
 
